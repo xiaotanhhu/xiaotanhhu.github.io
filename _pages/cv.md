@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2019/08-2023/05, Ph.D. in Civil Engineering (Pipeline Engineering), Stevens Institute of Technology, Hoboken, New Jersey, United States
+* 2016/09–2019/06, M.S. in in Civil Engineering (Bridge & Tunnel Engineering), Southeast University, Nanjing, Jiangsu, China
+* 2012/09–2016/07, B.S. in in Civil Engineering (Road, Bridge & River-Crossing Engineering), Chang’an University, Xi’an, Shaanxi, China
+
+
 
 Work experience
 ======
