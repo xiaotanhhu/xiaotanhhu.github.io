@@ -18,25 +18,25 @@ You can find my CV here: [Xiao Tan's Curriculum Vitae](../assets/Curriculum_Vita
 
 Research interests
 ======
-1. Pipeline condition assessment;
-1. Structural health monitoring (SHM);
-1. Nondestructive testing and evaluation (NDT&E);
-1. Distributed fiber optic sensor (DFOS);
-1. structural strengthening and rehabilitation;
-1. Machine Learning.
+* Pipeline condition assessment;
+* Structural health monitoring (SHM);
+* Nondestructive testing and evaluation (NDT&E);
+* Distributed fiber optic sensor (DFOS);
+* structural strengthening and rehabilitation;
+* Machine Learning.
 
 
 
 Recent News:
 ======
-1. 2024/06. I am appointed as a Guest Editor for Guest Editor of Developments in the Built Environment (SCI; IF: 6.2) - Special Issue: "Cutting-Edge Testing and Data Analytics for Constructional Materials".
-1. 2024/05. I am awarded the Outstanding Reviewer for Journal of Pipeline Systems Engineering and Practice (SCI; IF=1.9).
-1. 2024/04. I am appointed as an Associate Professor at Hohai University.
-1. 2024/01. I am appointed as a Guest Editor for Advances in Structural Engineering (SCI; IF: 2.6) - Special Issue: "Al-driven Monitoring and Condition Assessment for Enhancing Infrastructure Resilience".
-1. 2023/12. I am appointed as a Guest Editor for ASCE - Practice Periodical on Structural Design and Construction (ESCI; IF: 1.9) - Special Issue: "Strengthening Critical Civil Infrastructure: Advancing Resilience in the Face of Climate Change, Urbanization, and Natural Hazards".
-1. 2023/11. I am appointed as a young academic editor for the Journal of Traffic and Transportation Engineering (ESCI; IF=7.9).
-1. 2023/10. I am appointed as a youth editorial board member for the Journal of Intelligent Construction
-1. 2023/10. I am appointed as an editorial board member for ASTM - Journal of Testing and Evaluation (SCI; IF: 1.2)
-1. 2023/07, I am appointed as a Guest Editor for Measurement Science and Technology (SCI; IF: 2.4) - Special Issue: "AI-Driven Measurement Methods for Resilient Infrastructure and Communities"
+* 2024/06. I am appointed as a Guest Editor for Guest Editor of Developments in the Built Environment (SCI; IF: 6.2) - Special Issue: "Cutting-Edge Testing and Data Analytics for Constructional Materials".
+* 2024/05. I am awarded the Outstanding Reviewer for Journal of Pipeline Systems Engineering and Practice (SCI; IF=1.9).
+* 2024/04. I am appointed as an Associate Professor at Hohai University.
+* 2024/01. I am appointed as a Guest Editor for Advances in Structural Engineering (SCI; IF: 2.6) - Special Issue: "Al-driven Monitoring and Condition Assessment for Enhancing Infrastructure Resilience".
+* 2023/12. I am appointed as a Guest Editor for ASCE - Practice Periodical on Structural Design and Construction (ESCI; IF: 1.9) - Special Issue: "Strengthening Critical Civil Infrastructure: Advancing Resilience in the Face of Climate Change, Urbanization, and Natural Hazards".
+* 2023/11. I am appointed as a young academic editor for the Journal of Traffic and Transportation Engineering (ESCI; IF=7.9).
+* 2023/10. I am appointed as a youth editorial board member for the Journal of Intelligent Construction
+* 2023/10. I am appointed as an editorial board member for ASTM - Journal of Testing and Evaluation (SCI; IF: 1.2)
+* 2023/07, I am appointed as a Guest Editor for Measurement Science and Technology (SCI; IF: 2.4) - Special Issue: "AI-Driven Measurement Methods for Resilient Infrastructure and Communities"
 
 
