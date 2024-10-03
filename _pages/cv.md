@@ -47,19 +47,15 @@ Professional Services
 
 Editorial board:
 ------
-* Associate Editor, *Practice Periodical on Structural Design and Construction-ASCE* (IF=1.9)
-* Editorial Board, *Civil Engineering Journal* (IF=4.1)
-* Editorial Board, International Journal of Engineering Sciences and Technologies  
-* Youth Editorial Board, *Journal of Intelligent Construction*
-* Young Academic Editor, *Journal of Traffic and Transportation Engineering* (IF=7.9)
-* Early Career Editorial Board, *Structural Durability & Health Monitoring*
-* Review Editor, *Frontiers in Aerospace*
-* Guest Editor, *Advances in Structural Engineering* (IF=2.6)
-* Guest Editor, *Measurement Science and Technology* (IF=2.4)
-* Guest Editor, *Journal of Intelligent Construction*
-* Guest Editor, *Journal of Engineered Fibers and Fabrics* (IF=2.9)
-* Guest Editor, *Materials* (IF=3.4)
-* Guest Editor, *Coatings* (IF=3.4)
+* Editorial Board, **ASTM - Journal of Testing and Evaluation (SCI; IF=1.2)**
+* Youth Editorial Board, **Journal of Intelligent Construction**
+* Young Academic Editor, **Journal of Traffic and Transportation Engineering (ESCI; IF=7.9)** 
+* Guest Editor, **Developments in the Built Environment (SCI; IF=6.2)** 
+* Guest Editor, **Advances in Structural Engineering (SCI; IF=2.6)** 
+* Guest Editor, **Measurement Science and Technology (SCI; IF=2.4)** 
+* Guest Editor, **Journal of Intelligent Construction**
+* Guest Editor, **ASCE-Practice Periodical on Structural Design and Construction (ESCI; IF=1.9)** 
+
  
 Member:
 ------
