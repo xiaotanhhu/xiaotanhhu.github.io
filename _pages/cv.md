@@ -13,8 +13,8 @@ redirect_from:
 Education
 ======
 * 2019/08 - 2023/05,  Ph.D. in Civil Engineering (Pipeline Engineering),  Stevens Institute of Technology (Advisor: Prof. Yi Bao)
-* 2016/09 – 2019/06,  M.S. in in Civil Engineering (Bridge & Tunnel Engineering),  Southeast University (Advisor: Prof. Wen-Wei Wang)
-* 2012/09 – 2016/07,  B.S. in in Civil Engineering (Road, Bridge & River-Crossing Engineering),  Chang’an University
+* 2016/09 – 2019/06,  M.S. in Civil Engineering (Bridge & Tunnel Engineering),  Southeast University (Advisor: Prof. Wen-Wei Wang)
+* 2012/09 – 2016/07,  B.S. in Civil Engineering (Road, Bridge & River-Crossing Engineering),  Chang’an University
 
 
 
@@ -33,9 +33,11 @@ Employment History
   
 Awards and Honors
 ======
-* 2023, Outstanding Reviewer Award for the year 2023, Practice Periodical on Structural Design and Construction-ASCE
-* 2022, Adrian Pollock Student Award, AEWG-63 – The Acoustic Emission Working Group Annual Meeting
-* 2021, M. Bert Storey Graduate Fellowship, Department of Civil and Environmental Engineering, University of South Carolina
+* 2024/05,  **Outstanding Reviewer Award for the year 2023**,  Journal of Pipeline Systems Engineering and Practice,  ASCE
+* 2023/05,  **Richard I. Hires Research Award**,  Department of Civil, Environmental and Ocean Engineering,  Stevens Institute of Technology
+* 2022/08,  **Chinese Government Award for Outstanding Self-Financed Students Abroad**,  China Scholarship Council (CSC)
+* 2022/05,  **NSF-sponsored Proposal Writing Workshop Travel Grant**,  National Science Foundation (NSF)
+* 2022/05,  **Graduate Conference Funding Award**,  Stevens Institute of Technology
 * 2020, Outstanding Paper Award, CAMX – The Composites and Advanced Materials Expo. CAMX Conference Proceedings
 
 
@@ -62,7 +64,9 @@ Editorial board:
 Member:
 ------
 * Member of American Society of Civil Engineers (ASCE)
-* Member of Acoustic Emission Working Group (AEWG)
+* Member of American Society of Mechanical Engineers (ASME)
+* Member of American Society of Testing Materials (ASTM)
+* Member of American Concrete Institute (ACI)
  
 Reviewer:
 ------
