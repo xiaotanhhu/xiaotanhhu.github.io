@@ -37,6 +37,7 @@ Awards and Honors
 
 Professional Services 
 ======
+
 Editorial board:
 ------
 * Associate Editor, *Practice Periodical on Structural Design and Construction-ASCE* (IF=1.9)
