@@ -12,8 +12,8 @@ redirect_from:
 
 Education
 ======
-* 2019/08 - 2023/05,  Ph.D. in Civil Engineering (Pipeline Engineering),  Stevens Institute of Technology (Advisor: Prof. Yi Bao)
-* 2016/09 – 2019/06,  M.S. in Civil Engineering (Bridge & Tunnel Engineering),  Southeast University (Advisor: Prof. Wen-Wei Wang)
+* 2019/08 - 2023/05,  Ph.D. in Civil Engineering (Pipeline Engineering),  Stevens Institute of Technology,  Advisor: Prof. Yi Bao
+* 2016/09 – 2019/06,  M.S. in Civil Engineering (Bridge & Tunnel Engineering),  Southeast University,  Advisor: Prof. Wen-Wei Wang
 * 2012/09 – 2016/07,  B.S. in Civil Engineering (Road, Bridge & River-Crossing Engineering),  Chang’an University
 
 
@@ -21,7 +21,7 @@ Education
 Employment History 
 ======
 * 2024/04 - Present,  Associate Professor,  College of Water Conservancy and Hydropower Engineering,  Hohai University 
-* 2024/04 - Present,  Postdoctoral Fellow,  College of Water Conservancy and Hydropower Engineering,  Hohai University (Advisor: Prof. Yuan Wang)
+* 2024/04 - Present,  Postdoctoral Fellow,  College of Water Conservancy and Hydropower Engineering,  Hohai University,  Advisor: Prof. Yuan Wang
 * 2024/01 - 2024/04,  Lecturer,  College of Water Conservancy and Hydropower Engineering,  Hohai University
 * 2023/06 - 2023/12,  Research Associate,  Smart Infrastructure Lab,  Stevens Institute of Technology
 * 2021/09 - 2023/05,  Lab Manager,  Smart Infrastructure Lab,  Stevens Institute of Technology
