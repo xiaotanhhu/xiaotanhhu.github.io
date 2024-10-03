@@ -9,8 +9,8 @@ This page contains recent calls for papers, chapters, and other contributions wh
 
 **1. Special issue in Developments in the Built Environment (SCI; IF=6.2)**
 ------
-<p align="left">
-  <img src="https://ars.els-cdn.com/content/image/X26661659.jpg" alt="Photo" style="width: 200px;"/> 
+<p align="center">
+  <img src="https://ars.els-cdn.com/content/image/X26661659.jpg" alt="Photo" style="width: 400px;"/> 
 </p>
 Topic: [Cutting-Edge Testing and Data Analytics for Constructional Materials](https://www.sciencedirect.com/journal/developments-in-the-built-environment/about/call-for-papers#cutting-edge-testing-and-data-analytics-for-constructional-materials). Research areas may include (but are not limited to) the following:
    * Novel sensors and monitoring systems for material properties analysis
@@ -27,8 +27,8 @@ Submission deadline: June 30, 2025
 
 **2. Special issue in Advances in Structural Engineering (SCI; IF=2.6)**
 ------
-<p align="left">
-  <img src="https://journals.sagepub.com/cms/10.1177/ASEA_27_14/asset/1922265c-d219-2265-ed21-22265ced2192/asea_27_14.largecover.png" alt="Photo" style="width: 200px;"/> 
+<p align="center">
+  <img src="https://journals.sagepub.com/cms/10.1177/ASEA_27_14/asset/1922265c-d219-2265-ed21-22265ced2192/asea_27_14.largecover.png" alt="Photo" style="width: 400px;"/> 
 </p>
 Topic: [AI-driven Monitoring and Condition Assessment for Enhancing Infrastructure Resilience](https://journals.sagepub.com/page/ase/cfp/ai-driven-monitoring?pbEditor=true). Research areas may include (but are not limited to) the following:
    * Recent advancements in structural health monitoring and sensor technologies.
@@ -43,7 +43,7 @@ Submission deadline: May 31, 2024
 **3. Special issue in Practice Periodical on Structural Design and Construction-ASCE (ESCI; IF=1.9)**
 ------
 <p align="center">
-  <img src="https://ascelibrary.org/cms/asset/9971778b-11cc-42d1-8c8e-abc0fe5cdfe1/large_placeholder_cover.jpg" alt="Photo" style="width: 200px;"/> 
+  <img src="https://ascelibrary.org/cms/asset/9971778b-11cc-42d1-8c8e-abc0fe5cdfe1/large_placeholder_cover.jpg" alt="Photo" style="width: 400px;"/> 
 </p>
 Topic: [Strengthening Critical Civil Infrastructure: Advancing Resilience in the Face of Climate Change, Urbanization, and Natural Hazards](https://ascelibrary.org/ppscfx/cfp-strengthening-critical). Research areas may include (but are not limited to) the following:
    * Innovative design and construction methods for infrastructure resilience
@@ -56,8 +56,8 @@ Papers are accepted on a rolling basis (no current deadline)
 
 **4. Special issue in Journal of Intelligent Construction**
 ------
-<p align="left">
-  <img src="https://wqketang.oss-cn-beijing.aliyuncs.com/image/journal_prod/2023-04-20/0eac1238-91a5-4fb9-b47d-178c8d8f3a45.jpg" alt="Photo" style="width: 200px;"/> 
+<p align="center">
+  <img src="https://wqketang.oss-cn-beijing.aliyuncs.com/image/journal_prod/2023-04-20/0eac1238-91a5-4fb9-b47d-178c8d8f3a45.jpg" alt="Photo" style="width: 400px;"/> 
 </p>
 Topic: [Advancements in Structural Health Monitoring and Condition Assessment for Intelligent Urban Lifelines](https://www.sciopen.com/journal/message_news/get_by_id?id=1701779206806450177&issn=2958-3861). Research areas may include (but are not limited to) the following:
    * Condition assessment and real-time monitoring for pipelines, sewer lines, and urban underground pipe gallery
@@ -71,8 +71,8 @@ Submission deadline: December 31, 2024
 
 **5. Special issue in Measurement Science and Technology (SCI; IF=2.4)**
 ------
-<p align="left">
-  <img src="https://publishingsupport.iopscience.iop.org/wp-content/uploads/2020/06/MST-2019-1.png" alt="Photo" style="width: 200px;"/> 
+<p align="center">
+  <img src="https://publishingsupport.iopscience.iop.org/wp-content/uploads/2020/06/MST-2019-1.png" alt="Photo" style="width: 400px;"/> 
 </p>
 Topic: [AI-Driven Measurement Methods for Resilient Infrastructure and Communities](https://iopscience.iop.org/collections/mst-230626-269). Research areas may include (but are not limited to) the following:
    * The development and application of novel techniques and technologies for structural health monitoring
