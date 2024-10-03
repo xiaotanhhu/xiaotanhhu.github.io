@@ -13,13 +13,16 @@ This page contains recent calls for papers, chapters, and other contributions wh
   <img src="https://ars.els-cdn.com/content/image/X26661659.jpg" alt="Photo" style="width: 200px;"/> 
 </p>
 Topic: [Cutting-Edge Testing and Data Analytics for Constructional Materials](https://www.sciencedirect.com/journal/developments-in-the-built-environment/about/call-for-papers#cutting-edge-testing-and-data-analytics-for-constructional-materials). Research areas may include (but are not limited to) the following:
-   * Recent advancements in structural health monitoring and sensor technologies.
-   * Digital twins and AI methods relevant to resilient infrastructures
-   * Design principles for resilient infrastructure
-   * Retrofitting and upgrading of aging infrastructures
-   * Innovative functional construction materials
+   * Novel sensors and monitoring systems for material properties analysis
+   * State-of-the-art non-destructive testing methods
+   * Advanced material characterization techniques
+   * Fresh, early-age characteristics and long-term performance evaluation
+   * Durability assessment under diverse environmental conditions
+   * Intelligent constructional materials with self-sensing and adaptive functionalities
+   * AI and machine learning for predicting material behaviours and optimizing compositions
+   * Modern data processing techniques for sustainable and recycling material practices
       
-Submission deadline: June 31, 2025
+Submission deadline: June 30, 2025
 
 
 **2. Special issue in Advances in Structural Engineering (SCI; IF=2.6)**
@@ -69,7 +72,7 @@ Submission deadline: December 31, 2024
 **5. Special issue in Measurement Science and Technology (SCI; IF=2.4)**
 ------
 <p align="left">
-  <img src="https://liaiusc.github.io/images/WeChat Image_20230704023601.png?raw=true" alt="Photo" style="width: 200px;"/> 
+  <img src="https://publishingsupport.iopscience.iop.org/wp-content/uploads/2020/06/MST-2019-1.png" alt="Photo" style="width: 200px;"/> 
 </p>
 Topic: [AI-Driven Measurement Methods for Resilient Infrastructure and Communities](https://iopscience.iop.org/collections/mst-230626-269). Research areas may include (but are not limited to) the following:
    * The development and application of novel techniques and technologies for structural health monitoring
