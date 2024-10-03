@@ -43,7 +43,7 @@ Submission deadline: May 31, 2024
 **3. Special issue in Practice Periodical on Structural Design and Construction-ASCE (ESCI; IF=1.9)**
 ------
 <p align="center">
-  <img src="https://ascelibrary.org/cms/asset/9971778b-11cc-42d1-8c8e-abc0fe5cdfe1/large_placeholder_cover.jpg" alt="Photo" style="width: 250px;"/> 
+  <img src="https://www.hfabiao.com/upload/thumbnail/image/202408/07/25ecf_2bc1.jpg_322x440.jpg" alt="Photo" style="width: 250px;"/> 
 </p>
 Topic: [Strengthening Critical Civil Infrastructure: Advancing Resilience in the Face of Climate Change, Urbanization, and Natural Hazards](https://ascelibrary.org/ppscfx/cfp-strengthening-critical). Research areas may include (but are not limited to) the following:
    * Innovative design and construction methods for infrastructure resilience
@@ -58,7 +58,7 @@ Papers are accepted on a rolling basis (no current deadline)
 **4. Special issue in Journal of Intelligent Construction**
 ------
 <p align="center">
-  <img src="https://wqketang.oss-cn-beijing.aliyuncs.com/image/journal_prod/2023-04-20/0eac1238-91a5-4fb9-b47d-178c8d8f3a45.jpg" alt="Photo" style="width: 250px;"/> 
+  <img src="https://smartcity.cqu.edu.cn/__local/E/DE/75/85EDC8E323ADFC81182D5C4EADD_627B0E86_2B2019.png" alt="Photo" style="width: 250px;"/> 
 </p>
 Topic: [Advancements in Structural Health Monitoring and Condition Assessment for Intelligent Urban Lifelines](https://www.sciopen.com/journal/message_news/get_by_id?id=1701779206806450177&issn=2958-3861). Research areas may include (but are not limited to) the following:
    * Condition assessment and real-time monitoring for pipelines, sewer lines, and urban underground pipe gallery
