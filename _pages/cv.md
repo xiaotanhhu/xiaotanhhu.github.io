@@ -37,7 +37,7 @@ Awards and Honors
 * 2023/05,  **Richard I. Hires Research Award**,  Department of Civil, Environmental and Ocean Engineering,  Stevens Institute of Technology
 * 2022/08,  **Chinese Government Award for Outstanding Self-Financed Students Abroad**,  China Scholarship Council (CSC)
 * 2022/05,  **NSF-sponsored Proposal Writing Workshop Travel Grant**,  National Science Foundation (NSF)
-* 2022/05,  **Graduate Conference Funding Award**,  Stevens Institute of Technology
+* 2021/10,  **Graduate Conference Funding Award**,  Stevens Institute of Technology
 * 2021/09,  **Excellence Doctoral Fellowship**, Stevens Institute of Technology
 * 2019/10,  **Best Poster Award**, 21st Annual NJDOT Showcase, New Jersey Department of Transportation (NJDOT)
 * 2019/09,  **Provost Doctoral Fellowship**, Stevens Institute of Technology
