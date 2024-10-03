@@ -42,7 +42,7 @@ Submission deadline: May 31, 2024
 
 **3. Special issue in Practice Periodical on Structural Design and Construction-ASCE (ESCI; IF=1.9)**
 ------
-<p align="left">
+<p align="center">
   <img src="https://ascelibrary.org/cms/asset/9971778b-11cc-42d1-8c8e-abc0fe5cdfe1/large_placeholder_cover.jpg" alt="Photo" style="width: 200px;"/> 
 </p>
 Topic: [Strengthening Critical Civil Infrastructure: Advancing Resilience in the Face of Climate Change, Urbanization, and Natural Hazards](https://ascelibrary.org/ppscfx/cfp-strengthening-critical). Research areas may include (but are not limited to) the following:
