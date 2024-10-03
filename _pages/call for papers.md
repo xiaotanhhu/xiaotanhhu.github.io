@@ -27,7 +27,7 @@ Submission deadline: June 31, 2025
 <p align="left">
   <img src="https://journals.sagepub.com/cms/10.1177/ASEA_27_14/asset/1922265c-d219-2265-ed21-22265ced2192/asea_27_14.largecover.png" alt="Photo" style="width: 200px;"/> 
 </p>
-Topic: [AI-driven Monitoring and Condition Assessment for Enhancing Infrastructure Resilience]([https://liaiusc.github.io/files/ASE Call for papers.pdf](https://journals.sagepub.com/page/ase/cfp/ai-driven-monitoring?pbEditor=true)). Research areas may include (but are not limited to) the following:
+Topic: [AI-driven Monitoring and Condition Assessment for Enhancing Infrastructure Resilience](https://journals.sagepub.com/page/ase/cfp/ai-driven-monitoring?pbEditor=true). Research areas may include (but are not limited to) the following:
    * Recent advancements in structural health monitoring and sensor technologies.
    * Digital twins and AI methods relevant to resilient infrastructures
    * Design principles for resilient infrastructure
@@ -40,7 +40,7 @@ Submission deadline: May 31, 2024
 **3. Special issue in Practice Periodical on Structural Design and Construction-ASCE (ESCI; IF=1.9)**
 ------
 <p align="left">
-  <img src="https://liaiusc.github.io/images/ASCE SC coverface.png?raw=true" alt="Photo" style="width: 200px;"/> 
+  <img src="https://ascelibrary.org/cms/asset/9971778b-11cc-42d1-8c8e-abc0fe5cdfe1/large_placeholder_cover.jpg" alt="Photo" style="width: 200px;"/> 
 </p>
 Topic: [Strengthening Critical Civil Infrastructure: Advancing Resilience in the Face of Climate Change, Urbanization, and Natural Hazards](https://ascelibrary.org/ppscfx/cfp-strengthening-critical). Research areas may include (but are not limited to) the following:
    * Innovative design and construction methods for infrastructure resilience
@@ -54,7 +54,7 @@ Papers are accepted on a rolling basis (no current deadline)
 **4. Special issue in Journal of Intelligent Construction**
 ------
 <p align="left">
-  <img src="https://liaiusc.github.io/images/JIC.png?raw=true" alt="Photo" style="width: 200px;"/> 
+  <img src="https://wqketang.oss-cn-beijing.aliyuncs.com/image/journal_prod/2023-04-20/0eac1238-91a5-4fb9-b47d-178c8d8f3a45.jpg" alt="Photo" style="width: 200px;"/> 
 </p>
 Topic: [Advancements in Structural Health Monitoring and Condition Assessment for Intelligent Urban Lifelines](https://www.sciopen.com/journal/message_news/get_by_id?id=1701779206806450177&issn=2958-3861). Research areas may include (but are not limited to) the following:
    * Condition assessment and real-time monitoring for pipelines, sewer lines, and urban underground pipe gallery
