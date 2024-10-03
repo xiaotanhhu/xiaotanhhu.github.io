@@ -7,10 +7,10 @@ author_profile: true
 
 This page contains recent calls for papers, chapters, and other contributions where I am serving as an Editor/Guest Editor:
 
-**1. Special issue in Advances in Structural Engineering (IF=2.6)**
+**1. Special issue in Developments in the Built Environment (SCI; IF=6.2)**
 ------
 <p align="left">
-  <img src="https://XXX" alt="Photo" style="width: 200px;"/> 
+  <img src="https://ars.els-cdn.com/content/image/X26661659.jpg" alt="Photo" style="width: 200px;"/> 
 </p>
 Topic: [Cutting-Edge Testing and Data Analytics for Constructional Materials](https://www.sciencedirect.com/journal/developments-in-the-built-environment/about/call-for-papers#cutting-edge-testing-and-data-analytics-for-constructional-materials). Research areas may include (but are not limited to) the following:
    * Recent advancements in structural health monitoring and sensor technologies.
@@ -25,7 +25,7 @@ Submission deadline: June 31, 2025
 **2. Special issue in Advances in Structural Engineering (SCI; IF=2.6)**
 ------
 <p align="left">
-  <img src="https://liaiusc.github.io/images/ASE.png?raw=true" alt="Photo" style="width: 200px;"/> 
+  <img src="https://journals.sagepub.com/cms/10.1177/ASEA_27_14/asset/1922265c-d219-2265-ed21-22265ced2192/asea_27_14.largecover.png" alt="Photo" style="width: 200px;"/> 
 </p>
 Topic: [AI-driven Monitoring and Condition Assessment for Enhancing Infrastructure Resilience]([https://liaiusc.github.io/files/ASE Call for papers.pdf](https://journals.sagepub.com/page/ase/cfp/ai-driven-monitoring?pbEditor=true)). Research areas may include (but are not limited to) the following:
    * Recent advancements in structural health monitoring and sensor technologies.
