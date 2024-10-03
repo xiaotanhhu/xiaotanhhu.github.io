@@ -4,7 +4,7 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
-## [Improving Bridge Resilience and Sustainability Through Optimizing High-Performance Fiber-Reinforced Cementitious Composites ](https://s3.wp.wsu.edu/uploads/sites/2442/2022/11/Symposium-Schedule-Matrix.pdf)
+## [Improving Bridge Resilience and Sustainability Through Optimizing High-Performance Fiber-Reinforced Cementitious Composites ](https://www.youtube.com/watch?v=MgU1UrygLmQ)
 2022/11, TriDurLE 2022 symposium, National Center for Transportation Infrastructure Durability & Life-Extension (TriDurLE), Honolulu, HI, USA
 
 ## [Crack detection, location, quantification, and visualization using a distributed fiber optic sensor based on optical frequency domain reflectometry](https://www.emi-conference.org/sites/emi-conference.org/2022/files/inline-files/Technical%20Program_V10.pdf)
