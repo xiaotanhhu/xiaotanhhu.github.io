@@ -8,10 +8,10 @@ author_profile: true
 2022/11, TriDurLE 2022 symposium, National Center for Transportation Infrastructure Durability & Life-Extension (TriDurLE), Honolulu, HI, USA
 
 ## [Crack detection, location, quantification, and visualization using a distributed fiber optic sensor based on optical frequency domain reflectometry](https://www.emi-conference.org/sites/emi-conference.org/2022/files/inline-files/Technical%20Program_V10.pdf)
-2022/05, Engineering Mechanics Institute (EMI) Conference 2022, ASCE - Engineering Mechanics Institute, Baltimore, MD, USA
+2022/05, Engineering Mechanics Institute (EMI) Conference 2022, ASCE - Engineering Mechanics Institute, Baltimore, MD, USA **(NSF-sponsored Proposal Writing Workshop Travel Grant)**
 
 ## [Achieving resilient and smart concrete bridges by mapping strains and cracks using distributed fiber optic sensors](https://www.njdottechtransfer.net/wp-content/uploads/2021/10/Presentation-Xiao-Tan-Infrastructure.pdf)
-2021/10, The 23rd Annual NJDOT Research Showcase, New Jersey Department of Transportation (NJDOT), Trenton, NJ, USA
+2021/10, The 23rd Annual NJDOT Research Showcase, New Jersey Department of Transportation (NJDOT), Trenton, NJ, USA **(Stevens Graduate Conference Funding Award)**
 
 ## [Material redundancy for enhancing the resistance to collapse of the Florida International University (FIU) Bridge](https://trid.trb.org/view/1759138)
 2021/01, 2021 TRB Annual Meeting, Transportation Research Board (TRB), Washington, D.C., USA 
