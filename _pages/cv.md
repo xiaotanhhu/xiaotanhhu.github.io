@@ -33,12 +33,14 @@ Employment History
   
 Awards and Honors
 ======
-* 2024/05,  **Outstanding Reviewer Award for the year 2023**,  Journal of Pipeline Systems Engineering and Practice,  ASCE
+* 2024/05,  **Outstanding Reviewer Award for the year 2023**,  Journal of Pipeline Systems Engineering and Practice,  American Society of Civil Engineers (ASCE)
 * 2023/05,  **Richard I. Hires Research Award**,  Department of Civil, Environmental and Ocean Engineering,  Stevens Institute of Technology
 * 2022/08,  **Chinese Government Award for Outstanding Self-Financed Students Abroad**,  China Scholarship Council (CSC)
 * 2022/05,  **NSF-sponsored Proposal Writing Workshop Travel Grant**,  National Science Foundation (NSF)
 * 2022/05,  **Graduate Conference Funding Award**,  Stevens Institute of Technology
-* 2020, Outstanding Paper Award, CAMX – The Composites and Advanced Materials Expo. CAMX Conference Proceedings
+* 2021/09,  **Excellence Doctoral Fellowship**, Stevens Institute of Technology
+* 2019/10,  **Best Poster Award**, 21st Annual NJDOT Showcase, New Jersey Department of Transportation (NJDOT)
+* 2019/09,  **Provost Doctoral Fellowship**, Stevens Institute of Technology
 
 
 
@@ -54,7 +56,7 @@ Editorial board:
 * Guest Editor, **Advances in Structural Engineering (SCI; IF=2.6)** 
 * Guest Editor, **Measurement Science and Technology (SCI; IF=2.4)** 
 * Guest Editor, **Journal of Intelligent Construction**
-* Guest Editor, **ASCE-Practice Periodical on Structural Design and Construction (ESCI; IF=1.9)** 
+* Guest Editor, **ASCE - Practice Periodical on Structural Design and Construction (ESCI; IF=1.9)** 
 
  
 Member:
@@ -66,21 +68,23 @@ Member:
  
 Reviewer:
 ------
-* *Practice Periodical on Structural Design and Construction-ASCE*
-* *Structural Health Monitoring-SAGE*
+* *Journal of Industrial Information Integration*
+* *Structural Health Monitoring*
 * *Construction and Building Materials*
-* *IEEE Sensor Journal*
-* *Expert System with Applications*
-* *Neurocomputing*
-* *Engineering Structures*
+* *Automation in construction*
+* *ASCE - Journal of Bridge Engineering*
+* *ASCE - Journal of Pipeline Systems Engineering and Practice*
+* *ASCE - Journal of Structural Design and Construction Practice*
+* *ASCE - Journal of Performance of Constructed Facilities*
+* *Journal of Cleaner Production*
+* *Sensors and Actuators*
 * *Structures*
-* *Structural Concrete*
-* *Probabilistic Engineering Mechanics*
+* *Sustainable Cities and Society*
+* *Journal of Constructional Steel Research*
 * *Transportation Research Record*
-* *Transportation Research Board Annual Meeting*
-* *Journal of Supercomputing*
-* *Journal of Materials in Civil Engineering-ASCE*
-* *Journal of Applied Science and Engineering*
+* *Nondestructive Testing and Evaluation*
+* *International Journal of Structural Integrity*
+* ...
 
 
 
