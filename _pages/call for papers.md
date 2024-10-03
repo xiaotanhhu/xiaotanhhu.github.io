@@ -10,9 +10,24 @@ This page contains recent calls for papers, chapters, and other contributions wh
 **1. Special issue in Advances in Structural Engineering (IF=2.6)**
 ------
 <p align="left">
+  <img src="https://XXX" alt="Photo" style="width: 200px;"/> 
+</p>
+Topic: [Cutting-Edge Testing and Data Analytics for Constructional Materials](https://www.sciencedirect.com/journal/developments-in-the-built-environment/about/call-for-papers#cutting-edge-testing-and-data-analytics-for-constructional-materials). Research areas may include (but are not limited to) the following:
+   * Recent advancements in structural health monitoring and sensor technologies.
+   * Digital twins and AI methods relevant to resilient infrastructures
+   * Design principles for resilient infrastructure
+   * Retrofitting and upgrading of aging infrastructures
+   * Innovative functional construction materials
+      
+Submission deadline: June 31, 2025
+
+
+**2. Special issue in Advances in Structural Engineering (SCI; IF=2.6)**
+------
+<p align="left">
   <img src="https://liaiusc.github.io/images/ASE.png?raw=true" alt="Photo" style="width: 200px;"/> 
 </p>
-Topic: [AI-driven Monitoring and Condition Assessment for Enhancing Infrastructure Resilience](https://liaiusc.github.io/files/ASE Call for papers.pdf). Research areas may include (but are not limited to) the following:
+Topic: [AI-driven Monitoring and Condition Assessment for Enhancing Infrastructure Resilience]([https://liaiusc.github.io/files/ASE Call for papers.pdf](https://journals.sagepub.com/page/ase/cfp/ai-driven-monitoring?pbEditor=true)). Research areas may include (but are not limited to) the following:
    * Recent advancements in structural health monitoring and sensor technologies.
    * Digital twins and AI methods relevant to resilient infrastructures
    * Design principles for resilient infrastructure
@@ -22,7 +37,7 @@ Topic: [AI-driven Monitoring and Condition Assessment for Enhancing Infrastructu
 Submission deadline: May 31, 2024
 
 
-**2. Special issue in Practice Periodical on Structural Design and Construction-ASCE (IF=1.9)**
+**3. Special issue in Practice Periodical on Structural Design and Construction-ASCE (ESCI; IF=1.9)**
 ------
 <p align="left">
   <img src="https://liaiusc.github.io/images/ASCE SC coverface.png?raw=true" alt="Photo" style="width: 200px;"/> 
@@ -36,7 +51,7 @@ Topic: [Strengthening Critical Civil Infrastructure: Advancing Resilience in the
       
 Papers are accepted on a rolling basis (no current deadline)
 
-**3. Special issue in Journal of Intelligent Construction**
+**4. Special issue in Journal of Intelligent Construction**
 ------
 <p align="left">
   <img src="https://liaiusc.github.io/images/JIC.png?raw=true" alt="Photo" style="width: 200px;"/> 
@@ -51,7 +66,7 @@ Topic: [Advancements in Structural Health Monitoring and Condition Assessment fo
       
 Submission deadline: December 31, 2024
 
-**4. Special issue in Measurement Science and Technology (IF=2.4)**
+**5. Special issue in Measurement Science and Technology (SCI; IF=2.4)**
 ------
 <p align="left">
   <img src="https://liaiusc.github.io/images/WeChat Image_20230704023601.png?raw=true" alt="Photo" style="width: 200px;"/> 
@@ -64,53 +79,6 @@ Topic: [AI-Driven Measurement Methods for Resilient Infrastructure and Communiti
 
 Submission deadline: June 1, 2024
 
-**5. Special issue in Journal of Engineered Fibers and Fabrics (IF=2.9)**
-------
-<p align="left">
-  <img src="https://liaiusc.github.io/images/JEF.jpg?raw=true" alt="Photo" style="width: 200px;"/> 
-</p>
-Topic: [Sustainable Fiber Reinforced Cementitious Composites](https://journals.sagepub.com/page/jef/open-special-collections/sustainable-fiber-reinforced-cementitious-composites). Research areas may include (but are not limited to) the following:
-   * Advancement in the mix design of sustainable fiber-reinforced cementitious composites
-   * Fiber-reinforced sustainable cementitious composites
-   * Use of sustainable waste material in fiber-reinforced cementitious composite
-   * Artificial Intelligence/computational modeling techniques for sustainable fiber-reinforced materials
-   * Structural application of sustainable fiber-reinforced composites
 
-Submission deadline: February 8, 2024
-
-
-**6. Special issue in Materials (IF=3.4)** 
-------
-<p align="left">
-  <img src="https://liaiusc.github.io/images/materials.jpg?raw=true" alt="Photo" style="width: 500px;"/> 
-</p> 
-Topic: [Innovative Material Design and Non-Destructive Testing Applications for Infrastructure Materials](https://www.mdpi.com/journal/materials/special_issues/6UFRF89J27). Research areas may include (but are not limited to) the following:
-   * Novel and sustainable materials for transportation infrastructure
-   * Development and characterization of nanocomposites and their applications in infrastructure materials
-   * Advancements in 3D printing and additive manufacturing for material design and fabrication in infrastructure
-   * Innovations in nondestructive evaluation techniques for assessing and monitoring infrastructure materials
-   * Structural health monitoring and damage diagnosis with a focus on material properties and performance
-   * Innovative material-based maintenance and rehabilitation methods for transportation infrastructure
-   * Material-centric resilience and life-cycle assessment of transportation infrastructure components
-  
-Submission deadline: December 20, 2023
-
-
-**7. Special issue in Coatings (IF=3.4)** 
-------
-<p align="left">
-  <img src="https://liaiusc.github.io/images/coating.jpg?raw=true" alt="Photo" style="width: 500px;"/> 
-</p> 
-Topic: [Surface Engineering and Mechanical Properties of Building Materials](https://www.mdpi.com/journal/coatings/special_issues/Building_Mechanical). Research areas may include (but are not limited to) the following:
-   * New fracture testing findings or methods
-   * Multiscale characterization of building materials
-   * Descriptive or virtual modeling of building materials or structures
-   * Mechanical performance analysis based on data science
-   * Anti-cracking practices on building materials or structures
-   * Monitoring and diagnosis of building material failure
-   * Advanced fracture mechanics model of building materials or structures
-   * Life cycle analysis of durable and sustainable building materials
-  
-Submission deadline: December 10, 2023
 
 
