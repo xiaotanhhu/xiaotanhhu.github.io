@@ -1,18 +1,9 @@
 ---
 layout: archive
-title: "Teaching"
-permalink: /teaching/
+title: "Group"
+permalink: /group/
 author_profile: true
 ---
 
-University of South Carolina
+The link of group website of Hohai University: [工程渗流与地下工程安全研究团队 Engineering Seepage and Safety of Underground Engineering Group (ESSUEG)](https://m.x-mol.com/groups/wang_yuan?lang=zh)
 -----
-* Teaching assistant: 
-   * 2021 Fall: ECIV-327 Reinforced Concrete Design
-   * 2021 Spring: ECIV-320 Structural Mechanics
-   * 2019 Fall: ECIV-327 Reinforced Concrete Design
-
-Stevens Institute of Technology
------
-* Teaching assistant
-   * 2016 Fall: CE-519 Advanced Structure Analysis
