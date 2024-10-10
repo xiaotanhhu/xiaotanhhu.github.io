@@ -49,12 +49,17 @@ Published Journal Articles
 
 1. Tian, J., Wu, X.(✉), Wang, W.(✉), Hu, S., **Tan, X.**, Du, Y., Zheng, Y. and Sun, C., (2022), "Experimental study and mechanics model of ECC-to-concrete bond interface under tensile loading." ***Composite Structures***, 285, p.115203. [DOI](https://doi.org/10.1016/j.compstruct.2022.115203)
 
+1. **Tan, X.**, Fan, L., Huang, Y. and Bao, Y.(✉), (2021), "Detection, visualization, quantification, and warning of pipeline corrosion using distributed fiber optic sensors", ***Automation in Construction***, 132, p.103953. [DOI](https://doi.org/10.1016/j.autcon.2021.103953)
 
+1. **Tan, X.**, Bao, Y.(✉), Zhang, Q., Nassif, H., and Chen, G., (2021), "Strain transfer effect in distributed fiber optic sensors under an arbitrary field", ***Automation in Construction***, 124, p.103597. [DOI](https://doi.org/10.1016/j.autcon.2021.103597)
 
+1. **Tan, X.**, Abu-Obeidah, A., Bao, Y.(✉), Nassif, N., and Nasreddine, W., (2021), "Measurement and visualization of strains and cracks in CFRP post-tensioned fiber reinforced concrete beams using distributed fiber optic sensors", ***Automation in Construction***, 124, p.103604. [DOI](https://doi.org/10.1016/j.autcon.2021.103604)
 
+1. **Tan, X.**, Bao, Y.(✉), (2021), "Measuring crack width using a distributed fiber optic sensor based on optical frequency domain reflectometry", ***Measurement: Journal of the International Measurement Confederation***, 172, p.108945. [DOI](https://doi.org/10.1016/j.measurement.2020.108945)
 
+1. Fan, L., **Tan, X.**, Zhang, Q., Meng, W., Chen, G. and Bao, Y.(✉), (2020), "Monitoring corrosion of steel bars in reinforced concrete based on helix strains measured from a distributed fiber optic sensor", ***Engineering Structures***, 204, p.110039. [DOI](https://doi.org/10.1016/j.engstruct.2019.110039)
 
-
+1. Zhu, Z., Wang, W.(✉), Zheng, Y., Tian, J., and **Tan, X.**, (2019), "The constitutive model of FRP/ECC composite materials under uniaxial cyclic tensile loading based on the digital image correlation technique", ***China Civil Engineering Journal***, 52(10), pp.36-45, [DOI](https://doi.org/10.15951/j.tmgcxb.2019.10.003)
 
 
 Published Conference Proceedings
