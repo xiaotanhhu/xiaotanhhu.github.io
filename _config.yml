@@ -27,15 +27,12 @@ author:
   bio              : "Associate Professor"
   location         : "Nanjing, P.R.China"
   employer         : "[Hohai University](https://www.hhu.edu.cn/)"
-  email            : "xiaotan@hhu.edu.cn" 
-  url              : "https://sdxy.hhu.edu.cn/2024/0929/c15302a289444/page.htm"
-
-  # Academic websites
+  url              : # URL
+  email            : "xiaotan@hhu.edu.cn"
   
+  # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=m5Ka3gEAAAAJ"
-  email            : "xiaotan@hhu.edu.cn" 
-  url              : "https://sdxy.hhu.edu.cn/2024/0929/c15302a289444/page.htm"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-3552-6163"
   semantic         : # URL
