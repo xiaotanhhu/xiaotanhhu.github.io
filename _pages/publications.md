@@ -47,7 +47,6 @@ Published Journal Articles
 
 1. Tian, J., Wu, X.(✉), **Tan, X.**, Wang, W.(✉), Hu, S., Du, Y., Yuan, J., Huang, W. and Huang, X., (2022), "Experimental study and analysis model of flexural synergistic effect of reinforced concrete beams strengthened with ECC", ***Construction and Building Materials***, 352, p.128987. [DOI](https://doi.org/10.1016/j.conbuildmat.2022.128987)
 
-1. Tian, J., Wu, X.(✉), Wang, W.(✉), Hu, S., **Tan, X.**, Du, Y., Zheng, Y. and Sun, C., (2022), "Experimental study and mechanics model of ECC-to-concrete bond interface under tensile loading." ***Composite Structures***, 285, p.115203. [DOI](https://doi.org/10.1016/j.compstruct.2022.115203)
 
 1. **Tan, X.**, Fan, L., Huang, Y. and Bao, Y.(✉), (2021), "Detection, visualization, quantification, and warning of pipeline corrosion using distributed fiber optic sensors", ***Automation in Construction***, 132, p.103953. [DOI](https://doi.org/10.1016/j.autcon.2021.103953)
 
