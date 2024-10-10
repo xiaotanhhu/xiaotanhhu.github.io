@@ -31,13 +31,18 @@ Published Journal Articles
 
 2023 and before
 ------
-1. **L Ai (✉)**; T Mesaric; S Flowers; S Houck; J Widawsky; P Ziehl. *Evaluation of impact energy in composites using acoustic emission sensing technique*. Measurement Science and Technology. [under review](under review)
+1. Wu, X., He, J., Tian, J.(✉), **Tan, X.(✉)**, Hu, S., Zheng Y., Wang, W., and Zhang, W., (2023), "Shear behaviors of engineered cementitious composites to seawater sea-sand concrete (ECC-to-SSSC) interfaces cast using 3D-printed pre-grooving formwork: Mechanical properties, characterization, and life-cycle assessment", ***Journal of Building Engineering***, 78, p.107636. [DOI](https://doi.org/10.1016/j.jobe.2023.107636) (JCR: Q1, IF: 6.4)
 
-1. **L Ai (✉)**; D Bianco; V Soltangharaei; R Anay; P Ziehl. *Exploring the Impact of Aggregate Size and Reinforcement on Alkali-Silica Reaction in Concrete: A Comparative Analysis of Various Nondestructive Evaluation Techniques*. Mechanical Systems and Signal Processing. [under review](under review)
+1. **Tan, X.**, Mahjoubi, S., Zou, X., Meng, W., and Bao, Y.(✉), (2023), "Metaheuristic inverse analysis on interfacial mechanics of distributed fiber optic sensors undergoing interfacial debonding", ***Mechanical Systems and Signal Processing***, 200, p.110532. [DOI](https://doi.org/10.1016/j.ymssp.2023.110532) (JCR: Q1, IF: 8.4)
 
-1. S Zhou; C Wu; Y Hu; D Zhu; **L Ai**. *Investigating the Constitutive Relationship of Steel-fiber-reinforced Recycled Fine Aggregate Concrete under Uniaxial Compression*. Journal of Engineered Fibers and Fabrics. [under review](under review)
+1. **Tan, X.**, Mahjoubi, S., Zhang, Q., Dong, D. and Bao, Y.(✉), (2022), "A framework for improving bridge resilience and sustainability through optimizing high-performance fiber-reinforced cementitious composites", ***Journal of Infrastructure Preservation and Resilience***, 3(1), pp.1-18. [DOI](https://doi.org/10.1186/s43065-022-00067-0) (IF: 2.8)
 
-1. Y Shi; J Li; X Lv; **L Ai**; X Tan; C Wu. *Research and Application of Feeding-hoisting Equipment for Sealing Leakage in Concentrated Inlets of Earth-rock Dams*. Practice Periodical on Structural Design and Construction-ASCE. [under review](under review)
+1. Hui, Y., Xue, Y., Wang, W.(✉), **Tan, X.**, (2022), "Experimental study on mechanical properties and recoverability of FRP/SMA composites", Acta Materiae Compositae Sinica, 2023(9), pp.1-15. [DOI](https://doi.org/10.13801/j.cnki.fhclxb.20221206.002) (EI)
+
+1. **Tan, X.**, Guo, P., Zou, X., and Bao, Y.* (2022), "Buckling detection and shape reconstruction using strain distributions measured from a distributed fiber optic sensor", ***Measurement: Journal of the International Measurement Confederation***, 200, p.111625. [DOI](https://doi.org/10.1016/j.measurement.2022.111625) (JCR: Q1, IF: 5.6)
+
+
+
 
 
 
