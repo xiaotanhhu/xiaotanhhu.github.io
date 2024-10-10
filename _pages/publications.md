@@ -3,8 +3,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-I have authored 26 journal papers, of which 24 are SCI articles (11 as the first/corresponding author). The data and codes which are not publicly released might be available upon request.
 
+I have authored 26 journal papers, of which 24 are SCI articles (11 as the first/corresponding author). The data and codes which are not publicly released might be available upon request.
 
 
 Published Journal Articles 
@@ -33,12 +33,23 @@ Published Journal Articles
 
 1. Hui, Y., Xue, Y., Wang, W.(✉), **Tan, X.**, (2022), "Experimental study on mechanical properties and recoverability of FRP/SMA composites", Acta Materiae Compositae Sinica, 2023(9), pp.1-15. [DOI](https://doi.org/10.13801/j.cnki.fhclxb.20221206.002) 
 
-1. **Tan, X.**, Guo, P., Zou, X., and Bao, Y.* (2022), "Buckling detection and shape reconstruction using strain distributions measured from a distributed fiber optic sensor", ***Measurement: Journal of the International Measurement Confederation***, 200, p.111625. [DOI](https://doi.org/10.1016/j.measurement.2022.111625) 
+1. **Tan, X.**, Guo, P., Zou, X., and Bao, Y.(✉), (2022), "Buckling detection and shape reconstruction using strain distributions measured from a distributed fiber optic sensor", ***Measurement: Journal of the International Measurement Confederation***, 200, p.111625. [DOI](https://doi.org/10.1016/j.measurement.2022.111625) 
 
+1. Mahjoubi, S., **Tan, X.**, and Bao, Y.(✉), (2022), "Inverse analysis of strain distribution sensed by distributed fiber optic sensor subject to strain transfer", ***Mechanical Systems and Signal Processing***, 166, p.108474. [DOI](https://doi.org/10.1016/j.ymssp.2021.108474)
 
+1. Yan, M., **Tan, X.**, Mahjoubi, S. and Bao, Y.(✉), (2022), "Strain transfer effect on measurements with distributed fiber optic sensors", ***Automation in Construction***, 139, p.104262. [DOI](https://doi.org/10.1016/j.autcon.2022.104262)
 
+1. Bai, H., Guo, D., Wang, W., **Tan, X.**, Yan M., Chen, G., and Bao, Y.(✉), (2022), " Experimental investigation on flexural behavior of steel-concrete composite floor slabs with distributed fiber optic sensors", ***Journal of Building Engineering***, 54, p.104668. [DOI](https://doi.org/10.1016/j.jobe.2022.104668)
 
+1. Liu, Z., Shi, C., Shi, Q., **Tan, X.**, and Meng, W.(✉), (2022), "Recycling waste glass aggregate in concrete: Mitigation of alkali-silica reaction (ASR) by carbonation curing", ***Journal of Cleaner Production***, 370, p.133545. [DOI](https://doi.org/10.1016/j.jclepro.2022.133545)
 
+1. Xue, Y., Wang, W.(✉), **Tan, X.**, Hui, Y., Tian, J. and Zhu, Z. (2022), "Mechanical behavior and recoverable properties of CFRP shape memory alloy composite under different initial strains", ***Construction and Building Materials***, 333, p.127186. [DOI](https://doi.org/10.1016/j.conbuildmat.2022.127186)
+
+1. Tian, J., Wu, X.(✉), **Tan, X.**, Wang, W.(✉), Hu, S., Du, Y., Yuan, J., Huang, W. and Huang, X., (2022), "Experimental study and analysis model of flexural synergistic effect of reinforced concrete beams strengthened with ECC", ***Construction and Building Materials***, 352, p.128987. [DOI](https://doi.org/10.1016/j.conbuildmat.2022.128987)
+
+1. Tian, J., Wu, X.(✉), Wang, W.(✉), Hu, S., **Tan, X.**, Du, Y., Zheng, Y. and Sun, C., (2022), "Experimental study and mechanics model of ECC-to-concrete bond interface under tensile loading." ***Composite Structures***, 285, p.115203. [DOI](https://doi.org/10.1016/j.compstruct.2022.115203)
+
+1. 
 
 Published Conference Proceedings
 ------
