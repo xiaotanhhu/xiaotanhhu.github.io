@@ -12,9 +12,11 @@ Published Journal Articles
 
 2024
 ------
-1. Tian, J., Wu, X.(✉), **Tan, X.**, Zuo, Y., Zheng, Y., Yuan, J., Wang, W.W., Wei, L. and Zhang, W., (2024), "Feasibility study of smart functional strain-hardening cementitious composites: Self-sensing model and experimental performance", Construction and Building Materials, 436, p.136850. https://doi.org/10.1016/j.conbuildmat.2024.136850 (JCR: Q1, IF: 7.4)
+1. Zhou, C., **Tan, X.(✉)**, Zheng, Y., Wang, Y., and Mahjoubi, S., (2024). Data-driven axial bearing capacity analysis of steel tubes infilled with rubberized alkali-activated concrete. ***Advances in Structural Engineering***, p.13694332241268243. [DOI](https://doi.org/10.1177/13694332241268243) (JCR: Q2, IF: 2.1)
 
-1. Tian, J., Wu, X.(✉), Yuan, J., **Tan, X.**, Wei, L., Zhang, W., and Yu, P., (2024), "Investigation on shear properties and mechanical model of FRP-ECC-concrete composite interface cast with 3D-printing pre-grooves", Structures, 64, p.106582. https://doi.org/10.1016/j.istruc.2024.106582 (JCR: Q2, IF: 4.1)
+1. Tian, J., Wu, X.(✉), **Tan, X.**, Zuo, Y., Zheng, Y., Yuan, J., Wang, W.W., Wei, L. and Zhang, W., (2024), "Feasibility study of smart functional strain-hardening cementitious composites: Self-sensing model and experimental performance", ***Construction and Building Materials***, 436, p.136850. [DOI](https://doi.org/10.1016/j.conbuildmat.2024.136850) (JCR: Q1, IF: 7.4)
+
+1. Tian, J., Wu, X.(✉), Yuan, J., **Tan, X.**, Wei, L., Zhang, W., and Yu, P., (2024), "Investigation on shear properties and mechanical model of FRP-ECC-concrete composite interface cast with 3D-printing pre-grooves", ***Structures***, 64, p.106582. [DOI](https://doi.org/10.1016/j.istruc.2024.106582) (JCR: Q2, IF: 4.1)
 
 1. Du, J., **Tan, X.**, Wang, Y., Bao, Y., and Meng, W.(✉), (2024). "Reducing the cracking potential of ultra-high-performance concrete (UHPC) with the prewet expansive agent", ***Construction and Building Materials***, 431, p.136597. [DOI](https://doi.org/10.1016/j.conbuildmat.2024.136597) (JCR: Q1, IF: 7.4)
 
