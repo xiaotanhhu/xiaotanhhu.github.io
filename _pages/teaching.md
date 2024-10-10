@@ -7,7 +7,7 @@ author_profile: true
 
 Hohai University
 -----
-* 2024 Fall: Engineering Geotechnical Mechanics
+* 2024 Fall: Geotechnical Mechanics and Engineering
 * 2024 Spring: Long-distance Water Conservancy System: Safety Operation and Control
 
 Stevens Institute of Technology
