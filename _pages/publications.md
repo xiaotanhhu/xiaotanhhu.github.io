@@ -8,12 +8,10 @@ I have authored 26 journal papers, of which 24 are SCI articles (11 as the first
 
 
 Published Journal Articles 
-------  
+======  
 
 2024
 ------
-1. **L Ai**; E Elbatanouny; Laxman K C; P Ziehl. *Application of Digital Twins in Smart Cities: A State-of-the-Art Review*. Target Journal: [TBD](TBD), in preparation.
-
 1. Tian, J., Wu, X.(✉), **Tan, X.**, Zuo, Y., Zheng, Y., Yuan, J., Wang, W.W., Wei, L. and Zhang, W., (2024), "Feasibility study of smart functional strain-hardening cementitious composites: Self-sensing model and experimental performance", Construction and Building Materials, 436, p.136850. https://doi.org/10.1016/j.conbuildmat.2024.136850 (JCR: Q1, IF: 7.4)
 
 1. Tian, J., Wu, X.(✉), Yuan, J., **Tan, X.**, Wei, L., Zhang, W., and Yu, P., (2024), "Investigation on shear properties and mechanical model of FRP-ECC-concrete composite interface cast with 3D-printing pre-grooves", Structures, 64, p.106582. https://doi.org/10.1016/j.istruc.2024.106582 (JCR: Q2, IF: 4.1)
