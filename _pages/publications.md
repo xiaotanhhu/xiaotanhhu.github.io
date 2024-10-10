@@ -41,7 +41,7 @@ Published Journal Articles
 
 
 Published Conference Proceedings
-------
+======
 1. **L Ai**; T Mesaric; S Flowers; S Houck; J Widawsky; B Henderson; P Ziehl. *Evaluating Impact Damage in Urban Air Mobility Using Acoustic Emission Sensing and a Probability-Based Classification Method*. Transformative Vertical Flight (TVF) 2024. [DOI](https://vtol.org/store/product/evaluating-impact-damage-in-urban-air-mobility-using-acoustic-emission-sensing-and-a-probabilitybased-classification-method-18540.cfm)
 
 1. **L Ai**; B Henderson; S Houck; S Dickson; P Ziehl. *Identifying the Energy of Low-velocity Impacts on Composite Components Using Acoustic Emission*. 2023 IEEE Aerospace Conference. 2023 Mar 4. [DOI](https://doi.org/10.1109/AERO55745.2023.10116008) [PDF](TBD)
@@ -51,12 +51,17 @@ Published Conference Proceedings
 
 
 Book Chapter
-------
+======
 
 
 
 Technical Report
-------
+======
+
+
+
+
+
 
 1. J Zhu; H Sun; C Malone; P Ziehl; **L Ai**; M Bayat; Y Zhang; Taeyong Shin, and Eric Giannini. *Online Monitoring System for Concrete Structures Affected by Alkali-Silica Reaction*. No. DOE-UNL-NE8544. Univ. of Nebraska, Lincoln, NE (United States), 2021. [DOI](https://doi.org/10.2172/1838356)
 
