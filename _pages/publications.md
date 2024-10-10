@@ -64,7 +64,18 @@ Published Journal Articles
 
 Conference and Presentations
 ------
-1. **Tan, X.**, Meng, W., and Bao, Y.(✉), (2022), "Improving Bridge Resilience and Sustainability Through Optimizing High-Performance Fiber-Reinforced Cementitious Composites ", ***TriDurLE 2022 symposium***, *National Center for Transportation Infrastructure Durability & Life-Extension (TriDurLE)*. [Link](https://s3.wp.wsu.edu/uploads/sites/2442/2022/11/Symposium-Schedule-Matrix.pdf; https://www.youtube.com/watch?v=MgU1UrygLmQ)
+1. **Tan, X.**, Meng, W., and Bao, Y.(✉), (2022), "Improving Bridge Resilience and Sustainability Through Optimizing High-Performance Fiber-Reinforced Cementitious Composites ", ***TriDurLE 2022 symposium***, *National Center for Transportation Infrastructure Durability & Life-Extension (TriDurLE)*. [PPT](https://s3.wp.wsu.edu/uploads/sites/2442/2022/11/Symposium-Schedule-Matrix.pdf); [VIDEO](https://www.youtube.com/watch?v=MgU1UrygLmQ)
+
+2. **Tan, X.**, and Bao, Y.(✉), (2022), "Crack detection, location, quantification, and visualization using a distributed fiber optic sensor based on optical frequency domain reflectometry", ***Engineering Mechanics Institute (EMI) Conference 2022***, *ASCE Engineering Mechanics Institute*. [PPT](https://www.emi-conference.org/sites/emi-conference.org/2022/files/inline-files/Technical%20Program_V10.pdf)
+
+3. **Tan, X.**, and Bao, Y.(✉), (2021), "Achieving resilient and smart concrete bridges by mapping strains and cracks using distributed fiber optic sensors", ***23rd Annual NJDOT Research Showcase***, *New Jersey Department of Transportation (NJDOT)*. [PPT](https://www.njdottechtransfer.net/wp-content/uploads/2021/10/Presentation-Xiao-Tan-Infrastructure.pdf); [VIDEO](https://www.youtube.com/watch?v=28icJnyrK2w)
+
+4. **Tan, X.**, Meng, W., Bao, Y.*, Nassif H. and Li, V. C., (2021), " Material redundancy for enhancing the resistance to collapse of the Florida International University (FIU) Bridge", 2021 TRB Annual Meeting, Transportation Research Board. https://trid.trb.org/view/1759138 
+
+
+
+
+
 
 
 Book Chapter
