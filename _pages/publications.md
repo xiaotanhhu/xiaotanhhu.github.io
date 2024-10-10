@@ -62,11 +62,9 @@ Published Journal Articles
 1. Zhu, Z., Wang, W.(✉), Zheng, Y., Tian, J., and **Tan, X.**, (2019), "The constitutive model of FRP/ECC composite materials under uniaxial cyclic tensile loading based on the digital image correlation technique", ***China Civil Engineering Journal***, 52(10), pp.36-45, [DOI](https://doi.org/10.15951/j.tmgcxb.2019.10.003)
 
 
-Published Conference Proceedings
+Conference and Presentations
 ------
-1. **L Ai**; T Mesaric; S Flowers; S Houck; J Widawsky; B Henderson; P Ziehl. *Evaluating Impact Damage in Urban Air Mobility Using Acoustic Emission Sensing and a Probability-Based Classification Method*. Transformative Vertical Flight (TVF) 2024. [DOI](https://vtol.org/store/product/evaluating-impact-damage-in-urban-air-mobility-using-acoustic-emission-sensing-and-a-probabilitybased-classification-method-18540.cfm)
-
-
+1. **Tan, X.**, Meng, W., and Bao, Y.(✉), (2022), "Improving Bridge Resilience and Sustainability Through Optimizing High-Performance Fiber-Reinforced Cementitious Composites ", ***TriDurLE 2022 symposium***, *National Center for Transportation Infrastructure Durability & Life-Extension (TriDurLE)*. [Link](https://s3.wp.wsu.edu/uploads/sites/2442/2022/11/Symposium-Schedule-Matrix.pdf; https://www.youtube.com/watch?v=MgU1UrygLmQ)
 
 
 Book Chapter
