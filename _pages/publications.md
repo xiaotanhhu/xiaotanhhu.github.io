@@ -14,21 +14,19 @@ Published Journal Articles
 ------
 1. **L Ai**; E Elbatanouny; Laxman K C; P Ziehl. *Application of Digital Twins in Smart Cities: A State-of-the-Art Review*. Target Journal: [TBD](TBD), in preparation.
 
-Tian, J., Wu, X., Tan, X., Zuo, Y., Zheng, Y., Yuan, J., Wang, W.W., Wei, L. and Zhang, W., (2024), "Feasibility study of smart functional strain-hardening cementitious composites: Self-sensing model and experimental performance", Construction and Building Materials, 436, p.136850. https://doi.org/10.1016/j.conbuildmat.2024.136850 (JCR: Q1, IF: 7.4)
+1. Tian, J., Wu, X.(✉), **Tan, X.**, Zuo, Y., Zheng, Y., Yuan, J., Wang, W.W., Wei, L. and Zhang, W., (2024), "Feasibility study of smart functional strain-hardening cementitious composites: Self-sensing model and experimental performance", Construction and Building Materials, 436, p.136850. https://doi.org/10.1016/j.conbuildmat.2024.136850 (JCR: Q1, IF: 7.4)
 
-Tian, J., Wu, X., Yuan, J., Tan, X., Wei, L., Zhang, W., and Yu, P. (2024), "Investigation on shear properties and mechanical model of FRP-ECC-concrete composite interface cast with 3D-printing pre-grooves", Structures, 64, p.106582. https://doi.org/10.1016/j.istruc.2024.106582 (JCR: Q2, IF: 4.1)
+1. Tian, J., Wu, X.(✉), Yuan, J., **Tan, X.**, Wei, L., Zhang, W., and Yu, P., (2024), "Investigation on shear properties and mechanical model of FRP-ECC-concrete composite interface cast with 3D-printing pre-grooves", Structures, 64, p.106582. https://doi.org/10.1016/j.istruc.2024.106582 (JCR: Q2, IF: 4.1)
 
+1. Du, J., **Tan, X.**, Wang, Y., Bao, Y., and Meng, W.(✉), (2024). "Reducing the cracking potential of ultra-high-performance concrete (UHPC) with the prewet expansive agent", ***Construction and Building Materials***, 431, p.136597. [DOI](https://doi.org/10.1016/j.conbuildmat.2024.136597) (JCR: Q1, IF: 7.4)
 
+1. **Tan, X.**, Du, J., Zhang, Q., Meng, W., and Bao, Y.(✉), (2024), "Monitoring restrained shrinkage and cracks of ultra-high-performance concrete (UHPC) using distributed fiber optic sensors", ***Construction and Building Materials***, 422, p.135789. [DOI](https://doi.org/10.1016/j.conbuildmat.2024.135789) (JCR: Q1, IF: 7.4)
 
-1. Du, J., **Tan, X.**, Wang, Y., Bao, Y., and Meng, W.(✉) (2024). "Reducing the cracking potential of ultra-high-performance concrete (UHPC) with the prewet expansive agent", ***Construction and Building Materials***, 431, p.136597. [DOI](https://doi.org/10.1016/j.conbuildmat.2024.136597) (JCR: Q1, IF: 7.4)
+1. Liu, Y., **Tan, X.**, and Bao, Y.(✉), (2024), "Machine learning-assisted intelligent interpretation of distributed fiber optic sensor data for automated monitoring of pipeline corrosion", ***Measurement: Journal of the International Measurement Confederation***, 226, p.114190. [DOI](https://doi.org/10.1016/j.measurement.2024.114190) (JCR: Q1, IF: 5.6)
 
-1. **Tan, X.**, Du, J., Zhang, Q., Meng, W., and Bao, Y.(✉) (2024), "Monitoring restrained shrinkage and cracks of ultra-high-performance concrete (UHPC) using distributed fiber optic sensors", ***Construction and Building Materials***, 422, p.135789. [DOI](https://doi.org/10.1016/j.conbuildmat.2024.135789) (JCR: Q1, IF: 7.4)
+1. **Tan, X.**, Poorghasem, S., Huang, Y., Feng, X., and Bao, Y.(✉), (2024), "Monitoring of pipelines subjected to interactive bending and dent using distributed fiber optic sensors", ***Automation in Construction***, 160, p.105306. [DOI](https://doi.org/10.1016/j.autcon.2024.105306) (JCR: Q1, IF: 9.6)
 
-1. Liu, Y., **Tan, X.**, and Bao, Y.(✉) (2024), "Machine learning-assisted intelligent interpretation of distributed fiber optic sensor data for automated monitoring of pipeline corrosion", ***Measurement: Journal of the International Measurement Confederation***, 226, p.114190. [DOI](https://doi.org/10.1016/j.measurement.2024.114190) (JCR: Q1, IF: 5.6)
-
-1. **Tan, X.**, Poorghasem, S., Huang, Y., Feng, X., and Bao, Y.(✉) (2024), "Monitoring of pipelines subjected to interactive bending and dent using distributed fiber optic sensors", ***Automation in Construction***, 160, p.105306. [DOI](https://doi.org/10.1016/j.autcon.2024.105306) (JCR: Q1, IF: 9.6)
-
-1. Cao, X., Wang, W.(✉), **Tan. X.**, Zhang, Y. (2024), "Seismic behaviour of pre-damaged RC columns strengthened with CFRP grid/sprayed ECC jackets subjected to horizontal reversed cyclic loading and constant axial force." ***Case Studies in Construction Materials***, 20, p.e02948. [DOI](https://doi.org/10.1016/j.cscm.2024.e02948) (JCR: Q1, IF: 6.2)
+1. Cao, X., Wang, W.(✉), **Tan. X.**, Zhang, Y., (2024), "Seismic behaviour of pre-damaged RC columns strengthened with CFRP grid/sprayed ECC jackets subjected to horizontal reversed cyclic loading and constant axial force." ***Case Studies in Construction Materials***, 20, p.e02948. [DOI](https://doi.org/10.1016/j.cscm.2024.e02948) (JCR: Q1, IF: 6.2)
 
 
 2023 and before
