@@ -49,7 +49,13 @@ Published Journal Articles
 
 1. Tian, J., Wu, X.(✉), Wang, W.(✉), Hu, S., **Tan, X.**, Du, Y., Zheng, Y. and Sun, C., (2022), "Experimental study and mechanics model of ECC-to-concrete bond interface under tensile loading." ***Composite Structures***, 285, p.115203. [DOI](https://doi.org/10.1016/j.compstruct.2022.115203)
 
-1. 
+
+
+
+
+
+
+
 
 Published Conference Proceedings
 ------
