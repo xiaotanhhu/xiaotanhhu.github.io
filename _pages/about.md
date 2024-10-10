@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey, there! My name is [**Xiao Tan**](https://sdxy.hhu.edu.cn/2024/0929/c15302a289444/page.htm). I am currently an Associate Professor at the [College of Water Conservancy and Hydropower Engineering](https://sdxy.hhu.edu.cn/)，[Hohai University](https://www.hhu.edu.cn/). I received my Ph.D. degree from [Stevens Institute of Technology](https://www.stevens.edu/) in 2023 under the supervision of Dr. Yi Bao. I received my Master's degree from [Southeast University](https://www.seu.edu.cn/) in 2019 under the supervision of Dr. Wen-Wei Wang. Before that, I received my Bachelor's degree from [Chang'an University](https://www.chd.edu.cn/) in 2016.
+Hey, there! My name is [**Xiao Tan**](https://sdxy.hhu.edu.cn/2024/0929/c15302a289444/page.htm). I am currently an Associate Professor at the [College of Water Conservancy and Hydropower Engineering](https://sdxy.hhu.edu.cn/)，[Hohai University](https://www.hhu.edu.cn/). I received my Ph.D. degree from [Stevens Institute of Technology](https://www.stevens.edu/) in 2023 under the supervision of [Dr. Yi Bao](https://www.stevens.edu/profile/ybao3). I received my Master's degree from [Southeast University](https://www.seu.edu.cn/) in 2019 under the supervision of [Dr. Wen-Wei Wang](https://tc.seu.edu.cn/2022/0519/c25722a408285/page.htm). Before that, I received my Bachelor's degree from [Chang'an University](https://www.chd.edu.cn/) in 2016.
 
 You can find details in my [University Website](https://sdxy.hhu.edu.cn/2024/0929/c15302a289444/page.htm) and CV here: [Xiao Tan's Curriculum Vitae](../assets/Curriculum_Vitae_2023.pdf).
 
