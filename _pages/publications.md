@@ -9,9 +9,6 @@ I have authored 26 journal papers, of which 24 are SCI articles (11 as the first
 
 Published Journal Articles 
 ------  
-
-**2024**
-
 1. Zhou, C., **Tan, X.(✉)**, Zheng, Y., Wang, Y., and Mahjoubi, S., (2024). Data-driven axial bearing capacity analysis of steel tubes infilled with rubberized alkali-activated concrete. ***Advances in Structural Engineering***, p.13694332241268243. [DOI](https://doi.org/10.1177/13694332241268243) (JCR: Q2, IF: 2.1)
 
 1. Tian, J., Wu, X.(✉), **Tan, X.**, Zuo, Y., Zheng, Y., Yuan, J., Wang, W.W., Wei, L. and Zhang, W., (2024), "Feasibility study of smart functional strain-hardening cementitious composites: Self-sensing model and experimental performance", ***Construction and Building Materials***, 436, p.136850. [DOI](https://doi.org/10.1016/j.conbuildmat.2024.136850) (JCR: Q1, IF: 7.4)
@@ -27,8 +24,6 @@ Published Journal Articles
 1. **Tan, X.**, Poorghasem, S., Huang, Y., Feng, X., and Bao, Y.(✉), (2024), "Monitoring of pipelines subjected to interactive bending and dent using distributed fiber optic sensors", ***Automation in Construction***, 160, p.105306. [DOI](https://doi.org/10.1016/j.autcon.2024.105306) (JCR: Q1, IF: 9.6)
 
 1. Cao, X., Wang, W.(✉), **Tan. X.**, Zhang, Y., (2024), "Seismic behaviour of pre-damaged RC columns strengthened with CFRP grid/sprayed ECC jackets subjected to horizontal reversed cyclic loading and constant axial force." ***Case Studies in Construction Materials***, 20, p.e02948. [DOI](https://doi.org/10.1016/j.cscm.2024.e02948) (JCR: Q1, IF: 6.2)
-
-**2023 and before**
 
 1. Wu, X., He, J., Tian, J.(✉), **Tan, X.(✉)**, Hu, S., Zheng Y., Wang, W., and Zhang, W., (2023), "Shear behaviors of engineered cementitious composites to seawater sea-sand concrete (ECC-to-SSSC) interfaces cast using 3D-printed pre-grooving formwork: Mechanical properties, characterization, and life-cycle assessment", ***Journal of Building Engineering***, 78, p.107636. [DOI](https://doi.org/10.1016/j.jobe.2023.107636) (JCR: Q1, IF: 6.4)
 
