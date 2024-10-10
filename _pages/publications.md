@@ -3,9 +3,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-I have authored 38 papers, of which 29 are journal articles (19 as the first/corresponding author) and 9 are conference papers. The data and codes which are not publicly released might be available upon request.
+I have authored 26 journal papers, of which 24 are SCI articles (11 as the first/corresponding author). The data and codes which are not publicly released might be available upon request.
 
-In Preparation
+2024
 ------
 1. **L Ai**; E Elbatanouny; Laxman K C; P Ziehl. *Application of Digital Twins in Smart Cities: A State-of-the-Art Review*. Target Journal: [TBD](TBD), in preparation.
 
@@ -17,8 +17,10 @@ In Preparation
 
 1. X Yan; H Su; **L Ai**. *Numerical Simulation Method of Acoustic Emission for Hydraulic Concrete Failure Considering Material Heterogeneity*. Target Journal: [TBD](TBD), in preparation.
 
+1. **Tan, X.**, Poorghasem, S., Huang, Y., Feng, X., and Bao, Y.* (2024), "Monitoring of pipelines subjected to interactive bending and dent using distributed fiber optic sensors", ***Automation in Construction***, 160, p.105306. [DOI](https://doi.org/10.1016/j.autcon.2024.105306) (JCR: Q1, IF: 10.3)
 
-Under Review
+
+2023 and before
 ------
 1. **L Ai (✉)**; T Mesaric; S Flowers; S Houck; J Widawsky; P Ziehl. *Evaluation of impact energy in composites using acoustic emission sensing technique*. Measurement Science and Technology. [under review](under review)
 
