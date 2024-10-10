@@ -25,12 +25,13 @@ author:
   name             : "Dr. Xiao Tan"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor"
-  location         : "Nanjing, China"
+  location         : "Nanjing, P.R.China"
   employer         : "Hohai University"
-  uri              : # URL
-  email            : "xiaotan@hhu.edu.cn" 
+  University Website : "https://sdxy.hhu.edu.cn/2024/0929/c15302a289444/page.htm"
+  xiaotan@hhu.edu.cn : "xiaotan@hhu.edu.cn" 
 
   # Academic websites
+  
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=m5Ka3gEAAAAJ"
   impactstory      : # URL
