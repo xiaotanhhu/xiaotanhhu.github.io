@@ -8,10 +8,10 @@ I have authored 26 journal papers, of which 24 are SCI articles (11 as the first
 
 
 Published Journal Articles 
-======  
+------  
 
-2024
-------
+**2024**
+
 1. Zhou, C., **Tan, X.(✉)**, Zheng, Y., Wang, Y., and Mahjoubi, S., (2024). Data-driven axial bearing capacity analysis of steel tubes infilled with rubberized alkali-activated concrete. ***Advances in Structural Engineering***, p.13694332241268243. [DOI](https://doi.org/10.1177/13694332241268243) (JCR: Q2, IF: 2.1)
 
 1. Tian, J., Wu, X.(✉), **Tan, X.**, Zuo, Y., Zheng, Y., Yuan, J., Wang, W.W., Wei, L. and Zhang, W., (2024), "Feasibility study of smart functional strain-hardening cementitious composites: Self-sensing model and experimental performance", ***Construction and Building Materials***, 436, p.136850. [DOI](https://doi.org/10.1016/j.conbuildmat.2024.136850) (JCR: Q1, IF: 7.4)
@@ -28,9 +28,8 @@ Published Journal Articles
 
 1. Cao, X., Wang, W.(✉), **Tan. X.**, Zhang, Y., (2024), "Seismic behaviour of pre-damaged RC columns strengthened with CFRP grid/sprayed ECC jackets subjected to horizontal reversed cyclic loading and constant axial force." ***Case Studies in Construction Materials***, 20, p.e02948. [DOI](https://doi.org/10.1016/j.cscm.2024.e02948) (JCR: Q1, IF: 6.2)
 
+**2023 and before**
 
-2023 and before
-------
 1. Wu, X., He, J., Tian, J.(✉), **Tan, X.(✉)**, Hu, S., Zheng Y., Wang, W., and Zhang, W., (2023), "Shear behaviors of engineered cementitious composites to seawater sea-sand concrete (ECC-to-SSSC) interfaces cast using 3D-printed pre-grooving formwork: Mechanical properties, characterization, and life-cycle assessment", ***Journal of Building Engineering***, 78, p.107636. [DOI](https://doi.org/10.1016/j.jobe.2023.107636) (JCR: Q1, IF: 6.4)
 
 1. **Tan, X.**, Mahjoubi, S., Zou, X., Meng, W., and Bao, Y.(✉), (2023), "Metaheuristic inverse analysis on interfacial mechanics of distributed fiber optic sensors undergoing interfacial debonding", ***Mechanical Systems and Signal Processing***, 200, p.110532. [DOI](https://doi.org/10.1016/j.ymssp.2023.110532) (JCR: Q1, IF: 8.4)
@@ -48,27 +47,18 @@ Published Journal Articles
 
 
 Published Conference Proceedings
-======
+------
 1. **L Ai**; T Mesaric; S Flowers; S Houck; J Widawsky; B Henderson; P Ziehl. *Evaluating Impact Damage in Urban Air Mobility Using Acoustic Emission Sensing and a Probability-Based Classification Method*. Transformative Vertical Flight (TVF) 2024. [DOI](https://vtol.org/store/product/evaluating-impact-damage-in-urban-air-mobility-using-acoustic-emission-sensing-and-a-probabilitybased-classification-method-18540.cfm)
 
-1. **L Ai**; B Henderson; S Houck; S Dickson; P Ziehl. *Identifying the Energy of Low-velocity Impacts on Composite Components Using Acoustic Emission*. 2023 IEEE Aerospace Conference. 2023 Mar 4. [DOI](https://doi.org/10.1109/AERO55745.2023.10116008) [PDF](TBD)
-
-1. **L Ai**; E Elbatanouny; Laxman K C; M Bayat; V Soltangharaei; M van Tooren; P Ziehl. *Detection and Evaluation of Impact Damage on Aircraft Control Surface Using Acoustic Emission and Convolution Neural Network*. The 13th International Workshop on Structural Health Monitoring (IWSHM 2021). [DOI](https://doi.org/10.12783/shm2021/36329) [PDF](https://liaiusc.github.io/files/IWSHM-air.pdf)
 
 
 
 Book Chapter
-======
+------
 
 
 
 Technical Report
-======
+------
 
-
-
-
-
-
-1. J Zhu; H Sun; C Malone; P Ziehl; **L Ai**; M Bayat; Y Zhang; Taeyong Shin, and Eric Giannini. *Online Monitoring System for Concrete Structures Affected by Alkali-Silica Reaction*. No. DOE-UNL-NE8544. Univ. of Nebraska, Lincoln, NE (United States), 2021. [DOI](https://doi.org/10.2172/1838356)
 
