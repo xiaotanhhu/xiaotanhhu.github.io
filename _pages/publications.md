@@ -5,12 +5,13 @@ author_profile: true
 ---
 I have authored 26 journal papers, of which 24 are SCI articles (11 as the first/corresponding author). The data and codes which are not publicly released might be available upon request.
 
+
+
+Published Journal Articles 
+------  
+
 2024
 ------
-
-
-
-
 1. **L Ai**; E Elbatanouny; Laxman K C; P Ziehl. *Application of Digital Twins in Smart Cities: A State-of-the-Art Review*. Target Journal: [TBD](TBD), in preparation.
 
 Tian, J., Wu, X., Tan, X., Zuo, Y., Zheng, Y., Yuan, J., Wang, W.W., Wei, L. and Zhang, W., (2024), "Feasibility study of smart functional strain-hardening cementitious composites: Self-sensing model and experimental performance", Construction and Building Materials, 436, p.136850. https://doi.org/10.1016/j.conbuildmat.2024.136850 (JCR: Q1, IF: 7.4)
@@ -46,8 +47,6 @@ Tian, J., Wu, X., Yuan, J., Tan, X., Wei, L., Zhang, W., and Yu, P. (2024), "Inv
 
 
 
-Published Journal Articles 
-------  
 
 
 
