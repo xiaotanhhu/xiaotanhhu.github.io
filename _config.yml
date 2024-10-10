@@ -27,8 +27,8 @@ author:
   bio              : "Associate Professor"
   location         : "Nanjing, P.R.China"
   employer         : "Hohai University"
-  University Website : "https://sdxy.hhu.edu.cn/2024/0929/c15302a289444/page.htm"
-  xiaotan@hhu.edu.cn : "xiaotan@hhu.edu.cn" 
+  url              : "https://sdxy.hhu.edu.cn/2024/0929/c15302a289444/page.htm"
+  Email            : "xiaotan@hhu.edu.cn" 
 
   # Academic websites
   
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://xiaotanhhu.github.io/"
+  github           : "xiaotanhhu"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/xiao-tan-1644241a7/"
+  linkedin         : "xiao-tan-1644241a7/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
