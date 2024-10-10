@@ -109,31 +109,7 @@ Hui, Y., Xue, Y., Wang, W.*, Tan, X., (2022), "Experimental study on mechanical 
 
 Published Journal Articles 
 ------  
-1.	E Elbatanouny; **L Ai (✉)**; A Henderson; L K C; P Ziehl. An Automated Load Determination Approach for Concrete Girder Bridges Through Acoustic Emission. Advances in Structural Engineering. [accepted](accepted)
 
-1. **L Ai (✉)**; R Krol; A Henderson; V Soltangharaei; B Ross; T Cousins; P Ziehl. *Enhancing the Rehabilitation of Timber Piles Using Fiber Reinforced Polymer: An Acoustic Emission Analysis Under Compressive Stress*. Engineering Structures. 2024. 319: 118915. [DOI](https://doi.org/10.1016/j.engstruct.2024.118915)
-   
-1.	Y Wu; Z Zhao; P Chen; F Guo; Y Qin; S Long; **L Ai**. *Hybrid Learning Architecture for High-Speed Railroad Scene Parsing and Potential Safety Hazard Evaluation of UAV Images*. Measurement. 2024. 239:115504. [DOI](https://doi.org/10.1016/j.measurement.2024.115504)
-
-1.	E Elbatanouny; A Henderson; **L Ai (✉)**; P Ziehl. *Condition Assessment of Prestressed Concrete Channel Bridge Girders Using Acoustic Emission and Data-Driven Methods*. Structures. 2024. 67: 107008. [DOI](https://doi.org/10.1016/j.istruc.2024.107008)
-
-1. W Zhong; C Wu; **L Ai**; L Wang; D Zhu. *Effects of modified multi-walled carbon nanotubes and PVA fibers on mechanical properties and microstructure of lithium slag base geopolymer*. Construction and Building Materials. 2024. 438:137237. [DOI](https://doi.org/10.1016/j.conbuildmat.2024.137237)
-
-1.	E Elbatanouny; A Henderson; **L Ai (✉)**; L K C; B Ross; T Cousin; P Ziehl. *Full-Scale Experimental Investigation of Prestressed Concrete Channel Bridge Girders Strengthened with Aluminum Channels*. Engineering Structures. 2024. 314: 118433. [DOI](https://doi.org/10.1016/j.engstruct.2024.118433)
-
-1. **L Ai (✉)**; Laxman K C; E Elbatanouny; M Bayat; M van Tooren; P Ziehl. *Monitoring and Automatic Characterization of Low-velocity Impacts on Composite Components Through Acoustic Emission*. Mechanical Systems and Signal Processing. 2024. 218:111586. [DOI](https://doi.org/10.1016/j.ymssp.2024.111586)
-
-1. L Zhang; K Li; H Wang; D Liu; Z Ma; Q Zhang; M Li; W Zhang; C Wang; **L Ai**. *Research on a Multimodal Fusion Convolutional Physical Information Neural Networks Method for Improving the Precision of AE Source Planar Localization*. Measurement. 235:114995. [DOI](https://doi.org/10.1016/j.measurement.2024.114995)
-
-1. P Ni; D Fang; **L Ai**. Numerical Investigation of Three-Dimensional Incompressible Fluid Flow in Curved Elastic Tube. Journal of Intelligent Construction. 2024. [DOI](https://doi.org/10.26599/JIC.2024.9180023) 
-
-1. **L Ai (✉)**; Laxman K C; E Elbatanouny; A Henderson; P Ziehl. *Assisting Load Rating Testing of Precast Reinforced Concrete Bridge Slab through Digital Twins and Field Monitoring Data*. Journal of Testing and Evaluation. 2024. [DOI](https://asmedigitalcollection.asme.org/testingevaluation/article-abstract/doi/10.1520/JTE20230748/1200799/Assisting-Load-Rating-Testing-of-Precast?redirectedFrom=fulltext)
-
-1. D Fang; **L Ai**; J Tan; H Fu. *Immersed Force Analysis of Fish Surface with Carangiform Locomotion*. Physics of Fluids. 2024. Vol.36: 031903. [DOI](https://doi.org/10.1063/5.0188125)
-
-1. **L Ai**; V Soltangharaei; B Greer; M Bayat; P Ziehl. *Structural Health Monitoring of Stainless-Steel Nuclear Fuel Storage Canister Using Acoustic Emission*. Developments in the Built Environment. 2024. Vol.17: 100294. [DOI](https://doi.org/10.1016/j.dibe.2023.100294) 
-
-1. E Elbatanouny; **L Ai (✉)**; E Deaver; P Ziehl. *Impact of Graphene on Microstructure and Compressive Strength of Cement Mortars Utilizing Two Different Dispersion Methods*. Practice Periodical on Structural Design and Construction-ASCE. 2024. 29(1): 04023064. [DOI](https://doi.org/10.1061/PPSCFX.SCENG-1404)  
 
 
 
