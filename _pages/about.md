@@ -17,11 +17,11 @@ You can find details in my [University Website](https://sdxy.hhu.edu.cn/2024/092
 Research interests
 ======
 * Pipeline condition assessment
-* Structural health monitoring (SHM);
+* Structural health monitoring (SHM)
 * Nondestructive testing and evaluation (NDT&E)
 * Distributed fiber optic sensor (DFOS)
 * Structural strengthening and rehabilitation
-* Machine Learning.
+* Machine Learning (ML)
 
 
 
