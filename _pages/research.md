@@ -5,6 +5,11 @@ author_profile: true
 ---
 
 
+
+1. **Tan, X.**, Mahjoubi, S., Zhang, Q., Dong, D. and Bao, Y.(✉), (2022), "A framework for improving bridge resilience and sustainability through optimizing high-performance fiber-reinforced cementitious composites", ***Journal of Infrastructure Preservation and Resilience***, 3(1), pp.1-18. [DOI](https://doi.org/10.1186/s43065-022-00067-0) 
+1. Zhou, C., **Tan, X.(✉)**, Zheng, Y., Wang, Y., and Mahjoubi, S., (2024). Data-driven axial bearing capacity analysis of steel tubes infilled with rubberized alkali-activated concrete. ***Advances in Structural Engineering***, p.13694332241268243. [DOI](https://doi.org/10.1177/13694332241268243) 
+
+
 ## Monitoring Interactive Anomalies of Pipelines using Distributed Fiber Optic Sensors (In Process)
 <p align="center">
   <img src="https://xiaotanhhu.github.io/images/interactive anomalies.png?raw=true" alt="Photo" style="width: 800px;"/> 
@@ -40,16 +45,33 @@ Related publications:
 1. Du, J., **Tan, X.**, Wang, Y., Bao, Y., and Meng, W.(✉), (2024). "Reducing the cracking potential of ultra-high-performance concrete (UHPC) with the prewet expansive agent", ***Construction and Building Materials***, 431, p.136597. [DOI](https://doi.org/10.1016/j.conbuildmat.2024.136597) 
 
 
-
-
-
 ## Real-time Corrosion Monitoring of Pipelines using Distributed Fiber Optic Sensors
 <p align="center">
-  <img src="https://liaiusc.github.io/images/Digital twin.jpg?raw=true" alt="Photo" style="width: 800px;"/> 
+  <img src="https://xiaotanhhu.github.io/images/corrosion.png?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
 Relate publications:
-1. **L Ai (✉)**; Laxman K C; E Elbatanouny; A Henderson; P Ziehl. *Assisting Load Rating Testing of Precast Reinforced Concrete Bridge Slab through Digital Twins and Field Monitoring Data*. Journal of Testing and Evaluation. 2024. [accepted, in press](accepted, in press)
-1. Laxman K C; N Tabassum; **L Ai (✉)**; C Cole; P Ziehl. *Automated Crack Detection and Crack Depth Prediction for Reinforced Concrete Structures using Deep Learning*, Construction and Building Materials. 2023. Vol.370:130709. [DOI](https://doi.org/10.1016/j.conbuildmat.2023.130709) 
-1. Laxman K C; A Ross; **L Ai (✉)**; A Henderson; E Elbatanouny; M Bayat; P Ziehl. *Determination of Vehicle Loads on Bridges by Acoustic Emission and an Improved Ensembled Artificial Neural Network*, Construction and Building Materials. 2023. Vol.364:129844. [DOI](https://doi.org/10.1016/j.conbuildmat.2022.129844) 
-1. **L Ai**; M Bayat; G Comert; P Ziehl. *An Autonomous Bridge Load Rating Framework Using Digital Twins*, The 13th International Workshop on Structural Health Monitoring (IWSHM 2021). [DOI](https://doi.org/10.12783/shm2021/36365)
+
+1. Fan, L., **Tan, X.**, Zhang, Q., Meng, W., Chen, G. and Bao, Y.(✉), (2020), "Monitoring corrosion of steel bars in reinforced concrete based on helix strains measured from a distributed fiber optic sensor", ***Engineering Structures***, 204, p.110039. [DOI](https://doi.org/10.1016/j.engstruct.2019.110039)
+1. **Tan, X.**, Fan, L., Huang, Y. and Bao, Y.(✉), (2021), "Detection, visualization, quantification, and warning of pipeline corrosion using distributed fiber optic sensors", ***Automation in Construction***, 132, p.103953. [DOI](https://doi.org/10.1016/j.autcon.2021.103953)
+1. Liu, Y., **Tan, X.**, and Bao, Y.(✉), (2024), "Machine learning-assisted intelligent interpretation of distributed fiber optic sensor data for automated monitoring of pipeline corrosion", ***Measurement: Journal of the International Measurement Confederation***, 226, p.114190. [DOI](https://doi.org/10.1016/j.measurement.2024.114190) 
+
+
+## Structural Strengthening and Rehabilitation Methods Using Advanced Materials (HPFRCC; FRP; SMA)
+<p align="center">
+  <img src="https://liaiusc.github.io/images/Slab.png?raw=true" alt="Photo" style="width: 800px;"/> 
+</p>
+Relate publications:
+
+1. Zhu, Z., Wang, W.(✉), Zheng, Y., Tian, J., and **Tan, X.**, (2019), "The constitutive model of FRP/ECC composite materials under uniaxial cyclic tensile loading based on the digital image correlation technique", ***China Civil Engineering Journal***, 52(10), pp.36-45, [DOI](https://doi.org/10.15951/j.tmgcxb.2019.10.003)
+1. Tian, J., Wu, X.(✉), Wang, W.(✉), Hu, S., **Tan, X.**, Du, Y., Zheng, Y. and Sun, C., (2022), "Experimental study and mechanics model of ECC-to-concrete bond interface under tensile loading." ***Composite Structures***, 285, p.115203. [DOI](https://doi.org/10.1016/j.compstruct.2022.115203)
+1. Tian, J., Wu, X.(✉), **Tan, X.**, Wang, W.(✉), Hu, S., Du, Y., Yuan, J., Huang, W. and Huang, X., (2022), "Experimental study and analysis model of flexural synergistic effect of reinforced concrete beams strengthened with ECC", ***Construction and Building Materials***, 352, p.128987. [DOI](https://doi.org/10.1016/j.conbuildmat.2022.128987)
+1. Xue, Y., Wang, W.(✉), **Tan, X.**, Hui, Y., Tian, J. and Zhu, Z. (2022), "Mechanical behavior and recoverable properties of CFRP shape memory alloy composite under different initial strains", ***Construction and Building Materials***, 333, p.127186. [DOI](https://doi.org/10.1016/j.conbuildmat.2022.127186)
+1. Liu, Z., Shi, C., Shi, Q., **Tan, X.**, and Meng, W.(✉), (2022), "Recycling waste glass aggregate in concrete: Mitigation of alkali-silica reaction (ASR) by carbonation curing", ***Journal of Cleaner Production***, 370, p.133545. [DOI](https://doi.org/10.1016/j.jclepro.2022.133545)
+1. Hui, Y., Xue, Y., Wang, W.(✉), **Tan, X.**, (2022), "Experimental study on mechanical properties and recoverability of FRP/SMA composites", Acta Materiae Compositae Sinica, 2023(9), pp.1-15. [DOI](https://doi.org/10.13801/j.cnki.fhclxb.20221206.002) 
+1. Cao, X., Wang, W.(✉), **Tan. X.**, Zhang, Y., (2024), "Seismic behaviour of pre-damaged RC columns strengthened with CFRP grid/sprayed ECC jackets subjected to horizontal reversed cyclic loading and constant axial force." ***Case Studies in Construction Materials***, 20, p.e02948. [DOI](https://doi.org/10.1016/j.cscm.2024.e02948) 
+1. Wu, X., He, J., Tian, J.(✉), **Tan, X.(✉)**, Hu, S., Zheng Y., Wang, W., and Zhang, W., (2023), "Shear behaviors of engineered cementitious composites to seawater sea-sand concrete (ECC-to-SSSC) interfaces cast using 3D-printed pre-grooving formwork: Mechanical properties, characterization, and life-cycle assessment", ***Journal of Building Engineering***, 78, p.107636. [DOI](https://doi.org/10.1016/j.jobe.2023.107636) 
+1. Tian, J., Wu, X.(✉), Yuan, J., **Tan, X.**, Wei, L., Zhang, W., and Yu, P., (2024), "Investigation on shear properties and mechanical model of FRP-ECC-concrete composite interface cast with 3D-printing pre-grooves", ***Structures***, 64, p.106582. [DOI](https://doi.org/10.1016/j.istruc.2024.106582)
+1. Tian, J., Wu, X.(✉), **Tan, X.**, Zuo, Y., Zheng, Y., Yuan, J., Wang, W.W., Wei, L. and Zhang, W., (2024), "Feasibility study of smart functional strain-hardening cementitious composites: Self-sensing model and experimental performance", ***Construction and Building Materials***, 436, p.136850. [DOI](https://doi.org/10.1016/j.conbuildmat.2024.136850) 
+
+
 
