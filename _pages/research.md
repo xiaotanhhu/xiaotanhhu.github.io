@@ -4,6 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
+
 ## Monitoring Interactive Anomalies of Pipelines using Distributed Fiber Optic Sensors (In Process)
 <p align="center">
   <img src="https://xiaotanhhu.github.io/images/interactive anomalies.png?raw=true" alt="Photo" style="width: 800px;"/> 
@@ -25,13 +26,21 @@ Relate publications:
 1. **Tan, X.**, Guo, P., Zou, X., and Bao, Y.(✉), (2022), "Buckling detection and shape reconstruction using strain distributions measured from a distributed fiber optic sensor", ***Measurement: Journal of the International Measurement Confederation***, 200, p.111625. [DOI](https://doi.org/10.1016/j.measurement.2022.111625) 
 
 
-
 ## Real-time Monitoring of Cracks using Distributed Fiber Optic Sensor and Machine Learning
 <p align="center">
-  <img src="https://liaiusc.github.io/images/UAM.jpg?raw=true" alt="Photo" style="width: 800px;"/> 
+  <img src="https://xiaotanhhu.github.io/images/crack.png?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
 Related publications:
-1. **L Ai**; Laxman K C; E Elbatanouny; M Bayat; M Bayat; M van Tooren; P Ziehl*. *Monitoring and Automatic Characterization of Low-velocity Impacts on Composite Components Through Acoustic Emission*, Expert Systems with Applications. [under review](under review)
+
+1. **Tan, X.**, Abu-Obeidah, A., Bao, Y.(✉), Nassif, N., and Nasreddine, W., (2021), "Measurement and visualization of strains and cracks in CFRP post-tensioned fiber reinforced concrete beams using distributed fiber optic sensors", ***Automation in Construction***, 124, p.103604. [DOI](https://doi.org/10.1016/j.autcon.2021.103604)
+1. **Tan, X.**, Bao, Y.(✉), (2021), "Measuring crack width using a distributed fiber optic sensor based on optical frequency domain reflectometry", ***Measurement: Journal of the International Measurement Confederation***, 172, p.108945. [DOI](https://doi.org/10.1016/j.measurement.2020.108945)
+1. Bai, H., Guo, D., Wang, W., **Tan, X.**, Yan M., Chen, G., and Bao, Y.(✉), (2022), " Experimental investigation on flexural behavior of steel-concrete composite floor slabs with distributed fiber optic sensors", ***Journal of Building Engineering***, 54, p.104668. [DOI](https://doi.org/10.1016/j.jobe.2022.104668)
+1. **Tan, X.**, Mahjoubi, S., Zou, X., Meng, W., and Bao, Y.(✉), (2023), "Metaheuristic inverse analysis on interfacial mechanics of distributed fiber optic sensors undergoing interfacial debonding", ***Mechanical Systems and Signal Processing***, 200, p.110532. [DOI](https://doi.org/10.1016/j.ymssp.2023.110532) 
+1. **Tan, X.**, Du, J., Zhang, Q., Meng, W., and Bao, Y.(✉), (2024), "Monitoring restrained shrinkage and cracks of ultra-high-performance concrete (UHPC) using distributed fiber optic sensors", ***Construction and Building Materials***, 422, p.135789. [DOI](https://doi.org/10.1016/j.conbuildmat.2024.135789) 
+1. Du, J., **Tan, X.**, Wang, Y., Bao, Y., and Meng, W.(✉), (2024). "Reducing the cracking potential of ultra-high-performance concrete (UHPC) with the prewet expansive agent", ***Construction and Building Materials***, 431, p.136597. [DOI](https://doi.org/10.1016/j.conbuildmat.2024.136597) 
+
+
+
 
 
 ## Real-time Corrosion Monitoring of Pipelines using Distributed Fiber Optic Sensors
