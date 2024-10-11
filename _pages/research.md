@@ -6,7 +6,7 @@ author_profile: true
 
 ## Monitoring Interactive Anomalies of Pipelines using Distributed Fiber Optic Sensors (In Process)
 <p align="center">
-  <img src="https://liaiusc.github.io/images/interactive anomalies.png?raw=true" alt="Photo" style="width: 800px;"/> 
+  <img src="https://xiaotanhhu.github.io/images/interactive anomalies.png?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
 Related publications:
 
