@@ -6,9 +6,10 @@ author_profile: true
 
 ## Monitoring Interactive Anomalies of Pipelines using Distributed Fiber Optic Sensors (In Process)
 <p align="center">
-  <img src="https://liaiusc.github.io/images/Timber.png?raw=true" alt="Photo" style="width: 800px;"/> 
+  <img src="https://liaiusc.github.io/images/interactive anomalies.png?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
 Related publications:
+
 1. **Tan, X.**, Poorghasem, S., Huang, Y., Feng, X., and Bao, Y.(✉), (2024), "Monitoring of pipelines subjected to interactive bending and dent using distributed fiber optic sensors", ***Automation in Construction***, 160, p.105306. [DOI](https://doi.org/10.1016/j.autcon.2024.105306) 
 
 
