@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-I have authored 26 journal papers, of which 24 are SCI articles (11 as the first/corresponding author). The data and codes which are not publicly released might be available upon request. For more information, please kindly refer to my [Google Scholar](https://scholar.google.com/citations?hl=en&user=m5Ka3gEAAAAJ) or [ResearchGate](https://www.researchgate.net/profile/Xiao-Tan-25) page.
+I have authored **26** journal papers, of which **24 are SCI articles (11 as the first/corresponding author)**. The data and codes which are not publicly released might be available upon request. For more information, please kindly refer to my [Google Scholar](https://scholar.google.com/citations?hl=en&user=m5Ka3gEAAAAJ) or [ResearchGate](https://www.researchgate.net/profile/Xiao-Tan-25) page.
 
 
 Published Journal Articles 
