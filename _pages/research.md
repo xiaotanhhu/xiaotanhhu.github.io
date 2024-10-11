@@ -5,12 +5,17 @@ author_profile: true
 ---
 
 
+## AI-Empowed Structural Design and Construction Practice for Bridges
+<p align="center">
+  <img src="https://liaiusc.github.io/images/Digital twin.jpg?raw=true" alt="Photo" style="width: 800px;"/> 
+</p>
+Relate publications:
 
 1. **Tan, X.**, Mahjoubi, S., Zhang, Q., Dong, D. and Bao, Y.(✉), (2022), "A framework for improving bridge resilience and sustainability through optimizing high-performance fiber-reinforced cementitious composites", ***Journal of Infrastructure Preservation and Resilience***, 3(1), pp.1-18. [DOI](https://doi.org/10.1186/s43065-022-00067-0) 
 1. Zhou, C., **Tan, X.(✉)**, Zheng, Y., Wang, Y., and Mahjoubi, S., (2024). Data-driven axial bearing capacity analysis of steel tubes infilled with rubberized alkali-activated concrete. ***Advances in Structural Engineering***, p.13694332241268243. [DOI](https://doi.org/10.1177/13694332241268243) 
 
 
-## Monitoring Interactive Anomalies of Pipelines using Distributed Fiber Optic Sensors (In Process)
+## Monitoring Interactive Anomalies of Pipelines using Distributed Fiber Optic Sensors
 <p align="center">
   <img src="https://xiaotanhhu.github.io/images/interactive anomalies.png?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
