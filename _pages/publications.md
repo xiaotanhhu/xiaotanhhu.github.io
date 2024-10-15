@@ -68,7 +68,7 @@ Conference and Presentations
 
 1. **Tan, X.**, and Bao, Y.(✉), (2022), "Crack detection, location, quantification, and visualization using a distributed fiber optic sensor based on optical frequency domain reflectometry", ***Engineering Mechanics Institute (EMI) Conference 2022***, *ASCE Engineering Mechanics Institute*. [LINK](https://www.emi-conference.org/sites/emi-conference.org/2022/files/inline-files/Technical%20Program_V10.pdf); [PPT](https://xiaotanhhu.github.io/files/EMI2022.pdf).
 
-1. **Tan, X.**, and Bao, Y.(✉), (2021), "Achieving resilient and smart concrete bridges by mapping strains and cracks using distributed fiber optic sensors", ***23rd Annual NJDOT Research Showcase***, *New Jersey Department of Transportation (NJDOT)*. [PPT](https://www.njdottechtransfer.net/wp-content/uploads/2021/10/Presentation-Xiao-Tan-Infrastructure.pdf); [VIDEO](https://www.youtube.com/watch?v=28icJnyrK2w).
+1. **Tan, X.**, and Bao, Y.(✉), (2021), "Achieving resilient and smart concrete bridges by mapping strains and cracks using distributed fiber optic sensors", ***23rd Annual NJDOT Research Showcase***, *New Jersey Department of Transportation (NJDOT)*. [LINK](https://www.njdottechtransfer.net/2021/11/03/23nd-njdot-research-showcase/); [PPT](https://www.njdottechtransfer.net/wp-content/uploads/2021/10/Presentation-Xiao-Tan-Infrastructure.pdf); [VIDEO](https://www.youtube.com/watch?v=28icJnyrK2w).
 
 1. **Tan, X.**, Meng, W., Bao, Y.(✉), Nassif H. and Li, V. C., (2021), " Material redundancy for enhancing the resistance to collapse of the Florida International University (FIU) Bridge", ***2021 TRB Annual Meeting***, *Transportation Research Board*. [LINK](https://trid.trb.org/view/1759138). 
 
