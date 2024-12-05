@@ -25,22 +25,23 @@ Topic: [Cutting-Edge Testing and Data Analytics for Constructional Materials](ht
 Submission deadline: June 30, 2025
 
 
-**2. Special issue in Advances in Structural Engineering (SCI; IF=2.6)**
+**2. Special issue in Journal of Intelligent Construction**
 ------
 <p align="center">
-  <img src="https://journals.sagepub.com/cms/10.1177/ASEA_27_14/asset/1922265c-d219-2265-ed21-22265ced2192/asea_27_14.largecover.png" alt="Photo" style="width: 250px;"/> 
+  <img src="https://smartcity.cqu.edu.cn/__local/E/DE/75/85EDC8E323ADFC81182D5C4EADD_627B0E86_2B2019.png" alt="Photo" style="width: 250px;"/> 
 </p>
-Topic: [AI-driven Monitoring and Condition Assessment for Enhancing Infrastructure Resilience](https://journals.sagepub.com/page/ase/cfp/ai-driven-monitoring?pbEditor=true). Research areas may include (but are not limited to) the following:
-   * Recent advancements in structural health monitoring and sensor technologies.
-   * Digital twins and AI methods relevant to resilient infrastructures
-   * Design principles for resilient infrastructure
-   * Retrofitting and upgrading of aging infrastructures
-   * Innovative functional construction materials
+Topic: [Advancements in Structural Health Monitoring and Condition Assessment for Intelligent Urban Lifelines](https://www.sciopen.com/journal/message_news/get_by_id?id=1701779206806450177&issn=2958-3861). Research areas may include (but are not limited to) the following:
+   * Condition assessment and real-time monitoring for pipelines, sewer lines, and urban underground pipe gallery
+   * Structural health monitoring and condition assessment of road, railway, bridge, tunnel, and subway networks
+   * Distributed fiber optic sensors, non-destructive techniques, MEMS, drones, and robots for infrastructure evaluation
+   * Machine learning-based multi-sensor data fusion in urban lifeline monitoring and risk management
+   * Detection, evaluation, and differentiation of urban lifeline interactive anomalies
+   * Accelerated/Intelligent construction and predictive maintenance of urban lifelines
       
-Submission deadline: May 31, 2024
+Submission deadline: December 31, 2025
 
 
-**3. Special issue in Practice Periodical on Structural Design and Construction-ASCE (ESCI; IF=1.9)**
+**3. Special issue in Journal of Structural Design and Construction Practice-ASCE (ESCI; IF=1.9)**
 ------
 <p align="center">
   <img src="https://www.hfabiao.com/upload/thumbnail/image/202408/07/25ecf_2bc1.jpg_322x440.jpg" alt="Photo" style="width: 250px;"/> 
@@ -55,20 +56,19 @@ Topic: [Strengthening Critical Civil Infrastructure: Advancing Resilience in the
 Papers are accepted on a rolling basis (no current deadline)
 
 
-**4. Special issue in Journal of Intelligent Construction**
+**4. Special issue in Advances in Structural Engineering (SCI; IF=2.6)**
 ------
 <p align="center">
-  <img src="https://smartcity.cqu.edu.cn/__local/E/DE/75/85EDC8E323ADFC81182D5C4EADD_627B0E86_2B2019.png" alt="Photo" style="width: 250px;"/> 
+  <img src="https://journals.sagepub.com/cms/10.1177/ASEA_27_14/asset/1922265c-d219-2265-ed21-22265ced2192/asea_27_14.largecover.png" alt="Photo" style="width: 250px;"/> 
 </p>
-Topic: [Advancements in Structural Health Monitoring and Condition Assessment for Intelligent Urban Lifelines](https://www.sciopen.com/journal/message_news/get_by_id?id=1701779206806450177&issn=2958-3861). Research areas may include (but are not limited to) the following:
-   * Condition assessment and real-time monitoring for pipelines, sewer lines, and urban underground pipe gallery
-   * Structural health monitoring and condition assessment of road, railway, bridge, tunnel, and subway networks
-   * Distributed fiber optic sensors, non-destructive techniques, MEMS, drones, and robots for infrastructure evaluation
-   * Machine learning-based multi-sensor data fusion in urban lifeline monitoring and risk management
-   * Detection, evaluation, and differentiation of urban lifeline interactive anomalies
-   * Accelerated/Intelligent construction and predictive maintenance of urban lifelines
+Topic: [AI-driven Monitoring and Condition Assessment for Enhancing Infrastructure Resilience](https://journals.sagepub.com/page/ase/cfp/ai-driven-monitoring?pbEditor=true). Research areas may include (but are not limited to) the following:
+   * Recent advancements in structural health monitoring and sensor technologies.
+   * Digital twins and AI methods relevant to resilient infrastructures
+   * Design principles for resilient infrastructure
+   * Retrofitting and upgrading of aging infrastructures
+   * Innovative functional construction materials
       
-Submission deadline: December 31, 2024
+Submission deadline: May 31, 2024
 
 
 **5. Special issue in Measurement Science and Technology (SCI; IF=2.4)**
