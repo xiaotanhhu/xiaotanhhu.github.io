@@ -9,7 +9,7 @@ I have authored **28** journal papers, of which **26 are SCI articles (11 as the
 
 Published Journal Articles 
 ------  
-1. 
+1. Ai, L., Tan, X., Akbar, A., Yan, G., (2024). Guest Editorial: AI-driven Monitoring and Condition Assessment for Enhancing Infrastructure Resilience. ***Advances in Structural Engineering***, 5(4), p.13694332241305913. [DOI](https://doi.org/10.1177/13694332241305913) 
 
 1. Zhu, H., **Guo, Y.(✉)**, and Tan, X., (2024). Self-Adaptive Moving Least Squares Measurement Based on Digital Image Correlation. ***Optics***, 5(4), pp.566-580. [DOI](https://doi.org/10.3390/opt5040042) 
 
