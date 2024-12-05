@@ -27,6 +27,7 @@ Research interests
 
 Recent News:
 ======
+* 2024/11. I am appointed as the Session Chair for **The 13th International Conference on Structural Health Monitoring of Intelligent Infrastructure (SHMII-13)** - Mini-Symposia: "*SHM of Intelligent Civil Infrastructure using Fiber Optic Sensing*".
 * 2024/06. I am appointed as a Guest Editor for **Developments in the Built Environment (SCI; IF: 6.2)** - Special Issue: "*Cutting-Edge Testing and Data Analytics for Constructional Materials*".
 * 2024/05. I am awarded the Outstanding Reviewer for **Journal of Pipeline Systems Engineering and Practice (SCI; IF=1.9)**.
 * 2024/04. I am promoted to **Associate Professor** at Hohai University.
