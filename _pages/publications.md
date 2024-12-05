@@ -4,11 +4,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-I have authored **26** journal papers, of which **24 are SCI articles (11 as the first/corresponding author)**. The data and codes which are not publicly released might be available upon request. For more information, please kindly refer to my [Google Scholar](https://scholar.google.com/citations?hl=en&user=m5Ka3gEAAAAJ) or [ResearchGate](https://www.researchgate.net/profile/Xiao-Tan-25) page.
+I have authored **28** journal papers, of which **26 are SCI articles (11 as the first/corresponding author)**. The data and codes which are not publicly released might be available upon request. For more information, please kindly refer to my [Google Scholar](https://scholar.google.com/citations?hl=en&user=m5Ka3gEAAAAJ) or [ResearchGate](https://www.researchgate.net/profile/Xiao-Tan-25) page.
 
 
 Published Journal Articles 
 ------  
+1. 
+
+1. Zhu, H., **Guo, Y.(✉)**, and Tan, X., (2024). Self-Adaptive Moving Least Squares Measurement Based on Digital Image Correlation. ***Optics***, 5(4), pp.566-580. [DOI](https://doi.org/10.3390/opt5040042) 
+
 1. Zhou, C., **Tan, X.(✉)**, Zheng, Y., Wang, Y., and Mahjoubi, S., (2024). Data-driven axial bearing capacity analysis of steel tubes infilled with rubberized alkali-activated concrete. ***Advances in Structural Engineering***, p.13694332241268243. [DOI](https://doi.org/10.1177/13694332241268243) 
 
 1. Tian, J., Wu, X.(✉), **Tan, X.**, Zuo, Y., Zheng, Y., Yuan, J., Wang, W.W., Wei, L. and Zhang, W., (2024), "Feasibility study of smart functional strain-hardening cementitious composites: Self-sensing model and experimental performance", ***Construction and Building Materials***, 436, p.136850. [DOI](https://doi.org/10.1016/j.conbuildmat.2024.136850) 
