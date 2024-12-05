@@ -48,7 +48,9 @@ Professional Services
   * Guest Editor, **Advances in Structural Engineering (SCI; IF=2.6)** 
   * Guest Editor, **Measurement Science and Technology (SCI; IF=2.4)** 
   * Guest Editor, **Journal of Intelligent Construction**
-  * Guest Editor, **ASCE - Practice Periodical on Structural Design and Construction (ESCI; IF=1.9)** 
+  * Guest Editor, **ASCE - Practice Periodical on Structural Design and Construction (ESCI; IF=1.9)**
+* **Scientific/Technical/Organizing Committee:**
+  * Session Chair: SHM of Intelligent Civil Infrastructure using Fiber Optic Sensing, **The 13th International Conference on Structural Health Monitoring of Intelligent Infrastructure (SHMII-13)**, September 1-5, 2025, Graz, Austria.
 * **Member:**
   * Member of American Society of Civil Engineers (ASCE)
   * Member of American Society of Mechanical Engineers (ASME)
