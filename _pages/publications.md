@@ -68,6 +68,8 @@ Published Journal Articles
 
 Conference and Presentations
 ------
+1. **Tan, X.(✉)**, (2024), "Distributed Fiber Optic Sensors for Multi-Cause Structural Health Monitoring of Pipelines", ***5th ISEG Intermediate Symposium***, *International Society of Environmental Geotechnology (ISEG)*. [LINK](https://www.iseg.info/wp-content/uploads/2024/10/ISEG-symposium-4th-announcement.pdf).
+
 1. **Tan, X.**, Meng, W., and Bao, Y.(✉), (2022), "Improving Bridge Resilience and Sustainability Through Optimizing High-Performance Fiber-Reinforced Cementitious Composites ", ***TriDurLE 2022 symposium***, *National Center for Transportation Infrastructure Durability & Life-Extension (TriDurLE)*. [LINK](https://tridurle.wsu.edu/2022-tridurle-symposium/); [PPT](https://xiaotanhhu.github.io/files/TriDurLE2022.pdf); [VIDEO](https://www.youtube.com/watch?v=MgU1UrygLmQ).
 
 1. **Tan, X.**, and Bao, Y.(✉), (2022), "Crack detection, location, quantification, and visualization using a distributed fiber optic sensor based on optical frequency domain reflectometry", ***Engineering Mechanics Institute (EMI) Conference 2022***, *ASCE Engineering Mechanics Institute*. [LINK1](https://www.emi-conference.org/sites/emi-conference.org/2022/files/inline-files/Technical%20Program_V10.pdf); [LINK2](https://www.emi-conference.org/sites/emi-conference.org/2022/files/inline-files/EMI%202022%20Book%20of%20Abstracts.pdf); [PPT](https://xiaotanhhu.github.io/files/EMI2022.pdf).
