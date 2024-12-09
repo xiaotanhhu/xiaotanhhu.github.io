@@ -4,6 +4,9 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
+## [Distributed Fiber Optic Sensors for Multi-Cause Structural Health Monitoring of Pipelines]() 
+2024/11, 5th ISEG Intermediate Symposium, International Society of Environmental Geotechnology (ISEG). Nanjing, Jiangsu, China.
+
 ## [Improving Bridge Resilience and Sustainability Through Optimizing High-Performance Fiber-Reinforced Cementitious Composites ](https://www.youtube.com/watch?v=MgU1UrygLmQ)
 2022/11, TriDurLE 2022 symposium, National Center for Transportation Infrastructure Durability & Life-Extension (TriDurLE), Honolulu, HI, USA
 
