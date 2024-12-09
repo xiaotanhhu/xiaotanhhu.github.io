@@ -51,6 +51,7 @@ Professional Services
   * Guest Editor, **ASCE - Practice Periodical on Structural Design and Construction (ESCI; IF=1.9)**
 * **Scientific/Technical/Organizing Committee:**
   * Session Chair: SHM of Intelligent Civil Infrastructure using Fiber Optic Sensing, **The 13th International Conference on Structural Health Monitoring of Intelligent Infrastructure (SHMII-13)**, September 1-5, 2025, Graz, Austria.
+  * Session Chair: SHM of Intelligent Civil Infrastructure using Fiber Optic Sensing, **ASCE - Engineering Mechanics Institute 2025 International Conference (EMI 2025-IC)**, July 17-19, 2025, Beijing, China.
 * **Member:**
   * Member of American Society of Civil Engineers (ASCE)
   * Member of American Society of Mechanical Engineers (ASME)
