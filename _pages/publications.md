@@ -11,7 +11,7 @@ Published Journal Articles
 ------  
 1. Ai, L., Tan, X., Akbar, A., Yan, G., (2024). Guest Editorial: AI-driven Monitoring and Condition Assessment for Enhancing Infrastructure Resilience. ***Advances in Structural Engineering***, 5(4), p.13694332241305913. [DOI](https://doi.org/10.1177/13694332241305913) 
 
-1. Zhu, H., **Guo, Y.(✉)**, and Tan, X., (2024). Self-Adaptive Moving Least Squares Measurement Based on Digital Image Correlation. ***Optics***, 5(4), pp.566-580. [DOI](https://doi.org/10.3390/opt5040042) 
+1. Zhu, H., Guo, Y.(✉), and Tan, X., (2024). Self-Adaptive Moving Least Squares Measurement Based on Digital Image Correlation. ***Optics***, 5(4), pp.566-580. [DOI](https://doi.org/10.3390/opt5040042) 
 
 1. Zhou, C., **Tan, X.(✉)**, Zheng, Y., Wang, Y., and Mahjoubi, S., (2024). Data-driven axial bearing capacity analysis of steel tubes infilled with rubberized alkali-activated concrete. ***Advances in Structural Engineering***, p.13694332241268243. [DOI](https://doi.org/10.1177/13694332241268243) 
 
